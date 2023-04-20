@@ -1,19 +1,145 @@
 .banner-principal-decorativo
   &-1
+    animation: vanish 4.0s ease-in-out infinite alternate
+    position: absolute
+    bottom: 5%
+    left: 0%
+  &-2
+    animation: float1 5s ease-in-out infinite alternate
+    position: absolute
+    bottom: 25%
+    left: -5%
+  &-3
+    animation: float2 6s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    left: -10%
+  &-4
+    animation: vanish 5.5s ease-in-out infinite alternate
+    position: absolute
+    top: 12%
+    right: 17%
+  &-5
+    animation: float2 6s ease-in-out infinite alternate
+    position: absolute
+    top: 34%
+    right: -8%
+  &-6
+    animation: float1 5s ease-in-out infinite alternate
+    position: absolute
+    bottom: 22%
+    right: -10%
+  &-7
+    animation: float2 6.5s ease-in-out infinite alternate
+    position: absolute
+    bottom: 5%
+    right: 12%
+
+  &-8
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
-  100%
     transform: translateY(0px)
+  100%
+    transform: translateY(30px)
+  
+@keyframes float2
+  0%
+    transform: translateX(0px)
+  100%
+    transform: translateX(30px)
+
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+
+.banner-principal__row .banner-principal__img
+  width: 34%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01, .BGR01, .BGR03, .BGRB03
+  border-radius: 15px
+
+.BGRS03
+  border-radius: 0 0 15px 15px
+  
+.BGRS04
+  border-radius: 15px 15px 0 0
+
+.BGR03
+  box-shadow: 10px 5px 5px #D8D8D8
+
+.BGRS03, .BGRS04
+  border: 1px solid #B0C0D2
+
+.BGRB03
+  border: 2px solid#8628A5
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG01, .BGIMG02
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG02, .BGM02
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.BGR01, .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color:#EDDFF2
+  
+.BGM02
+  background: linear-gradient(to bottom, #FFFFFF, #E8F3FD, #FFFFFF)
+
+.BGR03, .BGRS03, .BGRB03
+  background-color: $white
+
+.BGRS04
+  background-color: #DEE4F0
+
+.BG05
+  background-color: #F3F9FF
+
+.BG06, .cajon.color-secundario, .tabs-b.color-secundario .tabs-b__tab--active
+  background-color: #F3E9F6
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.img-infografica-b.color-acento-botones .img-infografica-b__item__numero, .img-infografica.color-acento-botones .img-infografica__item__numero
+  color: #000
+
+.font-primary
+  color: $color-primario
+
+.img-infografica-b__modal
+  background-color: #12263F
+
+.BGR03
+  height: 275px
+  @media (max-width: $bp-max-xl)
+    height: 282px
+  @media (max-width: $bp-max-lg)
+    height: 283px
+  @media (max-width: $bp-max-md)
+    height: 100%
+
+
+
+
