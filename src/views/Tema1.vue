@@ -24,7 +24,7 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}" data-aos="fade-right"
           )
-          .bloque-texto-g__texto.p-4(data-aos="fade-left")
+          .bloque-texto-g__texto.py-md-5.py-4.px-4(data-aos="fade-left")
             p.mb-0 El #[em blockchain] es una estructura de datos que almacena información en bloques a los cuales puede agregarse información denominada metainformación, además cuenta con su propio #[em hash] y el #[em hash] del bloque inmediatamente anterior, la cual permite mantener una estrecha relación con otros bloques de una red sosteniendo una relación y línea temporal; la información se almacena haciendo uso.
     
     separador
@@ -95,7 +95,7 @@
       .col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-4.col-sm-3.col-lg-2
+            .col-4.col-sm-3.col-lg-2.px-4
               img(src="@/assets/curso/tema1/img08.png")
             .col
               .row.justify-content-between.align-items-center
@@ -169,7 +169,7 @@
     .h4.text-center.mb-5 Ahora se procederá a realizar una explicación de estos algoritmos:
 
     LineaTiempoD.color-secundario.mb-5(data-aos="flip-up")
-      .row(numero="1" titulo="AES (<em>Advanced Encryption Standard</em>)")
+      .row.p-4(numero="1" titulo="AES (<em>Advanced Encryption Standard</em>)")
         p Este algoritmo reemplazó al algoritmo DES y se utiliza comúnmente en canales y protocolos seguros como TLS, FTPES, VPS, entre otros. Además, puede ser aprovechado tanto por #[em software] como por #[em hardware]; este es un algoritmo de cifrado por bloques, cada bloque cuenta con un tamaño fijo de 128 #[em bits], su longitud de la clave puede ser variable entre 128, 192 y 256 #[em bits].
         p AES cuenta con diferentes modos de cifrado o manera de gestionar sus bloques, cada uno de ellos operando de manera diferente, entre los cuales se encuentra la siguiente distribución, como se aprecia en el recurso educativo a continuación:
         .row.justify-content-center.mb-4
@@ -197,7 +197,7 @@
                 img(src="@/assets/curso/tema1/img19.svg")
 
         p AES es uno de los algoritmos más utilizados actualmente; pero el modo más recomendado es AES-GCM ya que incorpora AEAD
-      .row(numero="2" titulo="ChaCha20")
+      .row.p-4(numero="2" titulo="ChaCha20")
         p Este algoritmo soporta claves de 128 y 256 #[em bits] y de alta velocidad, a diferencia de AES que es un cifrado por bloques, este es un cifrado de flujo, presenta características similares a su predecesor Salsa20; pero con una función primitiva de 12 o 20 rondas distintas. Ver figura.
         .titulo-sexto.color-acento-contenido
           h5 Figura 4
@@ -216,20 +216,22 @@
         p Los algoritmos utilizados en esta criptografía asimétrica están basados en funciones matemáticas, lo que dificulta su descifrado, además de contar con 2 claves como se vio anteriormente, estas 2 claves tienen funciones primordiales como cifrar información, asegurar la integridad del dato y garantizar la autenticidad del emisor.
         .cajon.color-acento-contenido.p-4
           p Las funciones matemáticas utilizadas están dadas por una estructura definida de acuerdo con la función que se realice, por ejemplo:
-          ul.lista-ul--color
-            li
-              i.fas.fa-cube(style="color: #FFD800;")
-              | Mensaje + clave pública = mensaje cifrado
-            li
-              i.fas.fa-cube(style="color: #FFD800;")
-              | Mensaje encriptado + clave privada = mensaje descifrado
-            li
-              i.fas.fa-cube(style="color: #FFD800;")
-              | Mensaje + clave privada = mensaje firmado
-            li
-              i.fas.fa-cube(style="color: #FFD800;")
-              | Mensaje firmado + clave pública = autenticación
-      .col-lg-5.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+          .row.justify-content-center
+            .col-lg-11
+              ul.lista-ul--color
+                li
+                  i.fas.fa-cube(style="color: #FFD800;")
+                  | Mensaje + clave pública = mensaje cifrado
+                li
+                  i.fas.fa-cube(style="color: #FFD800;")
+                  | Mensaje encriptado + clave privada = mensaje descifrado
+                li
+                  i.fas.fa-cube(style="color: #FFD800;")
+                  | Mensaje + clave privada = mensaje firmado
+                li
+                  i.fas.fa-cube(style="color: #FFD800;")
+                  | Mensaje firmado + clave pública = autenticación
+      .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img14.svg')
     
     .h4.text-center Aquí también se encuentran algunos algoritmos propios para el cifrado y descifrado de información, los cuales se presentan en el siguiente recurso educativo:
@@ -273,17 +275,17 @@
           table
             thead
               tr
-                th(style="background-color: #DEFAFD; width: 30%; font-size: 18px").text-center INFORMACIÓN
-                th(style="background-color: #DEFAFD; width: 30%; font-size: 18px").text-center FUNCIÓN
-                th(style="background-color: #DEFAFD; width: 40%; font-size: 18px").text-center SALIDA
+                th(style="background-color: #DEFAFD; width: 30%; font-size: 18px; border: 1px solid #E1E1E1").text-center INFORMACIÓN
+                th(style="background-color: #DEFAFD; width: 30%; font-size: 18px; border: 1px solid #E1E1E1").text-center FUNCIÓN
+                th(style="background-color: #DEFAFD; width: 40%; font-size: 18px; border: 1px solid #E1E1E1").text-center SALIDA
             tbody
               tr
-                th.text-center(style="background-color: #F6FEFF" rowspan="2") Saludos desde el complementario de #[em blockchain]: contratos inteligentes
-                td MD5 #[em Hash]
-                td c2010e3db97c16402d7150cf2eae8591
+                th.text-center(style="background-color: #F6FEFF; border: 1px solid #E1E1E1" rowspan="2") Saludos desde el complementario de #[em blockchain]: contratos inteligentes
+                td(style="background-color: #FFF; border: 1px solid #E1E1E1") MD5 #[em Hash]
+                td(style="background-color: #FFF; border: 1px solid #E1E1E1") c2010e3db97c16402d7150cf2eae8591
               tr
-                td SHA1 #[em Hash]
-                td 16c1ffb640cbddc213dfefe4ce8ef34627bd3c3d
+                td(style="background-color: #FFF; border: 1px solid #E1E1E1") SHA1 #[em Hash]
+                td(style="background-color: #FFF; border: 1px solid #E1E1E1") 16c1ffb640cbddc213dfefe4ce8ef34627bd3c3d
 
         p Los valores resultantes del #[em hash] son muy comunes para almacenar información sensible como, por ejemplo, contraseñas, métodos de pago, entre otros.
 

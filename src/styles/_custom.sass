@@ -98,7 +98,10 @@
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
   
-.BGR01, .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+.linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #F6F6F6
+
+.BGR01, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
   background-color:#EDDFF2
   
 .BGM02
@@ -115,6 +118,9 @@
 
 .BG06, .cajon.color-secundario, .tabs-b.color-secundario .tabs-b__tab--active
   background-color: #F3E9F6
+
+.tabs-a__tab
+  background-color: #F6F6F6
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   border-radius: 5px 5px 0 0
@@ -139,7 +145,7 @@
     height: 283px
   @media (max-width: $bp-max-md)
     height: 100%
-
+  
 
 
 

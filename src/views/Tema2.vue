@@ -135,20 +135,19 @@
           p De acuerdo con lo anterior, se puede determinar que este lenguaje presenta una sintaxis amigable, con una curva de aprendizaje moderadamente compleja y que soporta el paradigma de la programación orientada a objetos, lo que permitirá reducir y reutilizar el código existente.
 
           .row.justify-content-center.mb-4(data-aos="flip-up")
-            .col-lg-10
-              .tarjeta.color-secundario.p-3.mb-5
-                .row.justify-content-around.align-items-center
-                  .col-3.col-sm-2.col-lg-1
-                    img(src="@/assets/curso/tema2/img17.png")
-                  .col
-                    .row.justify-content-between.align-items-center
-                      .col.mb-3.mb-sm-0
-                        h3.mb-1 Solidity
-                        p.mb-0 Puede conocer más sobre este lenguaje de programación en su sitio web oficial, al cual puede acceder mediante este enlace.
-                      .col-sm-auto
-                        a.boton.color-acento-botones(href="https://solidity-es.readthedocs.io/es/latest/" target="_blank")
-                          span(style="color: #000; font-weight: 400") Ir a sitio web
-                          i.fas.fa-link(style="color: #000")           
+            .tarjeta.color-secundario.p-3.mb-5
+              .row.justify-content-around.align-items-center
+                .col-4.col-sm-3.col-lg-2.px-4
+                  img.w-75(src="@/assets/curso/tema2/img17.png")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      h3.mb-1 Solidity
+                      p.mb-0 Puede conocer más sobre este lenguaje de programación en su sitio web oficial, al cual puede acceder mediante este enlace.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="https://solidity-es.readthedocs.io/es/latest/" target="_blank")
+                        span(style="color: #000; font-weight: 400") Ir a sitio web
+                        i.fas.fa-link(style="color: #000")           
           
     p.mb-5 También existen alternativas para usuarios no técnicos o aquellos que no manejan lenguajes de programación, que les ayudan a construir una lógica del contrato inteligente apoyado en una interfaz de bloques, lo que permite comprender lo que se está programando, y que posteriormente se puede exportar para complementar y publicar, una de estas plataformas es <a style="color: #8628A5" href="https://etherscripter.com" target="_blank">https://etherscripter.com</a>, como se puede apreciar en la siguiente figura.
 
@@ -175,7 +174,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema2/img19.svg')
+                img(src='@/assets/curso/tema2/img19.png')
 
             .BGRB03.p-3(x="50%" y="32%" numero="1")
               .h5.font-primary.mb-2 Planificación
@@ -209,7 +208,7 @@
       .col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-4.col-sm-3.col-lg-2
+            .col-4.col-sm-3.col-lg-2.px-5
               img(src="@/assets/curso/tema2/img17.png")
             .col
               .row.justify-content-between.align-items-center
@@ -250,29 +249,29 @@
               img(src="@/assets/curso/tema2/img17.png")
             .col
               .row.justify-content-between.align-items-center
-                .col-lg-4.mb-3.mb-sm-0
+                .col-lg-4.mb-4.mb-sm-0
                   p.mb-0 Estos son los proyectos de cada uno de los ecosistemas revisados anteriormente, los cuales puede consultar en los siguientes enlaces a su disposición:
                 .col-lg-8
                   .row.justify-content-center
                     .col-lg.col-4
-                      figure.mb-4
-                        img(src="@/assets/curso/tema2/img26.png")
+                      figure.mb-3
+                        img.ms-3.w-75(src="@/assets/curso/tema2/img26.png")
                       .h4.text-center.text-white.mb-0 <a href="https://bitcoin.org/" target="_blank">Bitcoin</a>
                     .col-lg.col-4
-                      figure.mb-4
-                        img(src="@/assets/curso/tema2/img27.png")
+                      figure.mb-3
+                        img.ms-3.w-75(src="@/assets/curso/tema2/img27.png")
                       .h4.text-center.text-white.mb-0 <a href="https://ethereum.org/" target="_blank">Ethereum</a>
                     .col-lg.col-4
-                      figure.mb-4
-                        img(src="@/assets/curso/tema2/img28.png")
+                      figure.mb-3
+                        img.ms-3.w-75(src="@/assets/curso/tema2/img28.png")
                       .h4.text-center.text-white.mb-0 <a href="https://solana.com/" target="_blank">Solana</a>
                     .col-lg.col-4
-                      figure.mb-4
-                        img(src="@/assets/curso/tema2/img29.png")
+                      figure.mb-3
+                        img.ms-3.w-75(src="@/assets/curso/tema2/img29.png")
                       .h4.text-center.text-white.mb-0 <a href="https://cardano.org/" target="_blank">Cardano</a>
                     .col-lg.col-4
-                      figure.mb-4
-                        img(src="@/assets/curso/tema2/img30.png")
+                      figure.mb-3
+                        img.ms-3.w-75(src="@/assets/curso/tema2/img30.png")
                       .h4.text-center.text-white.mb-0 <a href="https://polkadot.network/" target="_blank">Polkadot </a>
     
     p Existen muchos más proyectos con infinidad de propuestas para aplicar en el mundo del #[em blockchain], cerca de 10.000 proyectos activos y con infinidad de propuestas y aplicaciones con las cuales se puede implementar con contratos inteligentes, se invita a estudiarlos y tomar su propia decisión sobre con cuál trabajar en sus necesidades.
