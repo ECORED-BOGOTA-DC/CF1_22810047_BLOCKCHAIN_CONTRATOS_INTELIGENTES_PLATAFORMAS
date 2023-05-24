@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Los contratos inteligentes le permite a los desarrolladores crear aplicaciones que aprovechan la seguridad, la confiabilidad y la accesibilidad de la cadena de bloques y, al mismo tiempo, ofrecer funciones peer-to-peer sofisticadas, desde préstamos y seguros hasta logística y videojuegos.
+    p Los contratos inteligentes le permite a los desarrolladores crear aplicaciones que aprovechan la seguridad, la confiabilidad y la accesibilidad de la cadena de bloques y, al mismo tiempo, ofrecer funciones #[em peer-to-peer] sofisticadas, desde préstamos y seguros hasta logística y videojuegos.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center

@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.BGIMG01.p-4.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p Han surgido con la aparición del #[em blockchain] a mediados de los años 90, cuando el criptólogo Nick Szabo buscó cómo proporcionar mecanismos que permitieran el comercio electrónico adaptándose a los nuevos retos bajo la red de #[em blockchain], a partir de ese momento han surgido iniciativas sobre cómo garantizar el desarrollo de estas actividades con la seguridad y confiabilidad necesaria y que brinde la confianza al usuario, de esta forma surgen los contratos inteligentes, los cuales permitieron programar técnicamente la lógica y controles necesarios para garantizar la seguridad y confidencialidad de la información.
+        p Han surgido con la aparición del #[em blockchain] a mediados de los años 90, cuando el criptólogo Nick Szabo buscó la manera de proporcionar mecanismos que permitieran el comercio electrónico adaptándose a los nuevos retos bajo la red de #[em blockchain], a partir de ese momento han surgido iniciativas sobre cómo garantizar el desarrollo de estas actividades con la seguridad y confiabilidad necesaria y que brinde la confianza al usuario, de esta forma surgen los contratos inteligentes, los cuales permitieron programar técnicamente la lógica y controles necesarios para garantizar la seguridad y confidencialidad de la información.
         p.mb-0 A continuación, va a conocer un poco sobre qué son los contratos inteligentes y cómo se puede determinar las características para su construcción.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema2/img01.png")
@@ -20,8 +20,8 @@
     
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        p #[em Smart contract] como su nombre lo indica, son contratos iguales a los contratos ordinarios en donde se requería participar presencialmente, firmar y/o sellar, pero ahora se cuenta con un mecanismo y agilidad que permite establecer acciones para una transacción sin estar presente, bajo algunos controles y a un bajo costo de transacción. Para la creación de un contrato inteligente se hace uso de lenguajes de programación sobre los cuales se programan las reglas, condiciones y flujo de información para finalmente registrar dicha información sobre una red de #[em blockchain].
-        p.mb-0 El término #[em smart contract] está asociado a contratos automatizados, lo cual es correcto; pero, vale la pena aclarar que, si bien los orígenes del término y las intenciones de quien lo acuñó por primera vez quizás se centraron en permitir contratos automatizados, la implementación final sobre una red de #[em blockchain] los ubica más próximos a programas de computación de uso más o menos genérico, con la posibilidad de acceder a dinero (#[em token's]) y con algunas restricciones y costos de ejecución.
+        p #[em Smart contract] como su nombre lo indica, es un contrato igual a los contratos ordinarios en donde se requería participar presencialmente, firmar o sellar, pero ahora se cuenta con un mecanismo y agilidad que permite establecer acciones para una transacción sin estar presente, bajo algunos controles y a un bajo costo de transacción. Para la creación de un contrato inteligente se hace uso de lenguajes de programación sobre los cuales se programan las reglas, condiciones y flujo de información para finalmente registrar dicha información sobre una red de #[em blockchain].
+        p.mb-0 El término #[em smart contract] está asociado a contratos automatizados, lo cual es correcto; pero, vale la pena aclarar que, si bien los orígenes del término y las intenciones de quien lo acuñó por primera vez quizás se centraron en permitir contratos automatizados, la implementación final sobre una red de #[em blockchain] los ubica más próximos a programas de computación de uso más o menos genérico, con la posibilidad de acceder a dinero (#[em tokens]) y con algunas restricciones y costos de ejecución.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema2/img02.png")
     
@@ -64,7 +64,7 @@
                 .col-6
                   img(src='@/assets/curso/tema2/img08.png')
               .h4.text-center.font-primary Automóvil
-              p.mb-0 Recordación de deudas, hasta autos que se manejan solos.
+              p.mb-0 Desde recordación de deudas, hasta autos que se manejan solos.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
@@ -96,7 +96,7 @@
               .h4.text-center.font-primary Notariado y Registro
               p.mb-0 Permite proteger al ciudadano, agiliza la certificación, y disminuye la demora en el trámite.
 
-    p.mb-5 Si se realiza una comparación con los contratos tradicionales se puede ver una marcada diferencia que invita a estudiar la posibilidad de adopción de esta tecnología, en la siguiente figura podrá encontrar un paralelo que permite identificar la gran diferencia de los tipos de contratos.
+    p.mb-5 Si se hace una comparación con los contratos tradicionales se puede ver una marcada diferencia que invita a estudiar la posibilidad de adopción de esta tecnología, en la siguiente figura podrá encontrar un paralelo que permite identificar la gran diferencia de los tipos de contratos.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -105,7 +105,7 @@
           span Comparación de contratos tradicionales vs. contratos inteligentes
         figure.mb-4(data-aos="zoom-in")
           img(src="@/assets/curso/tema2/img14.svg")
-          figcaption Nota. <a style="font-weight: 400">Adaptado de What are #[em Smart Contracts]. How Ethereum #[em Smart Contract Work] (Edureka, s.f.).</a>
+          figcaption Nota. <a style="font-weight: 400">Adaptado de What are #[em Smart Contracts]. How Ethereum #[em Smart Contracts Work] (Edureka, s.f.).</a>
         .cajon.color-secundario.p-4
           .row.justify-content-center(data-aos="flip-up")
             .col-lg-2.col-4
@@ -158,7 +158,7 @@
           span Editor visual de contratos inteligentes EtherScripter
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema2/img18.png")
-          figcaption Nota. <a style="font-weight: 400">tomado de EtherScripter - Visual smart-contract builder for Ethereum</a>
+          figcaption Nota. <a style="font-weight: 400">Tomado de EtherScripter - #[em Visual smart-contract builder for Ethereum]</a>
 
     p Esta plataforma basada en bloques permite arrastrar bloques con enganches similares a un rompecabezas y a medida que los enganchamos cada parte sirve como condicional lógico, repeticiones, y todo lo necesario para poder generar un contrato inteligente básico.
 
@@ -166,7 +166,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Reglas en contratos inteligentes
 
-    p Sin duda, como en cualquier proceso de construcción de un programa o un proyecto de diseño de aplicaciones, este debe de cumplir con algunas fases y reglas que garantizan que al final del proceso, el contrato inteligente realice lo que se necesita sin errores, así las cosas, se va a enumerar algunas recomendaciones y reglas que se deben de tener presente en el momento de construir un contrato inteligente, como se muestra a continuación:
+    p Sin duda, como en cualquier proceso de construcción de un programa o un proyecto de diseño de aplicaciones, este debe de cumplir con algunas fases y reglas que garantizan que al final del proceso, el contrato inteligente realice lo que se necesita sin errores, así las cosas, se va a enumerar algunas recomendaciones y reglas que se deben tener presentes en el momento de construir un contrato inteligente, como se muestra a continuación:
 
     .BGM02.px-md-5.px-4.py-4.mb-4
       .row.justify-content-center
@@ -181,13 +181,13 @@
               p Es necesario conocer las necesidades que debe solucionar un contrato inteligente, determinando los recursos, lógica del programa, entradas de información, salidas de información, así como aplicaciones con las que debe interactuar e intercambiar información.
             .BGRB03.p-3(x="62.5%" y="36%" numero="2")
               .h5.font-primary.mb-2 Conocer los recursos disponibles y las DApps
-              p El incursionar en la tecnología #[em blockchain] lleva a estudiar y explorar las Dapps, las cuales están conformadas por contratos inteligentes, estas corren sobre una red de #[em blockchain], así como diferentes recursos ya creados de las que puede hacer uso libremente.
+              p El incursionar en la tecnología #[em blockchain] lleva a estudiar y explorar las DApps, las cuales están conformadas por contratos inteligentes, estas corren sobre una red de #[em blockchain], así como diferentes recursos ya creados de las que puede hacer uso libremente.
             .BGRB03.p-3(x="70%" y="47%" numero="3")
               .h5.font-primary.mb-2 Construir el contrato con el lenguaje adecuado
               p Estudiar y conocer un lenguaje de programación especializado en la creación de contratos inteligentes como, por ejemplo, Solidity y su entorno de desarrollo Remix permitirá crear, testear y prepararse para desplegar sobre una red de producción de contratos inteligentes.
             .BGRB03.p-3(x="67.5%" y="61%" numero="4")
               .h5.font-primary.mb-2 Libre de interrupciones
-              p La codificación del contrato inteligente debe involucrar buenas prácticas de programación y debe garantizar estar libre de interrupciones que puedan poner en riesgo el normal funcionamiento del contrato inteligente y generar interrupción del servicio y/o pérdida de información.
+              p La codificación del contrato inteligente debe involucrar buenas prácticas de programación y debe garantizar estar libre de interrupciones que puedan poner en riesgo el normal funcionamiento del contrato inteligente y generar interrupción del servicio o pérdida de información.
             .BGRB03.p-3(x="57%" y="70%" numero="5")
               .h5.font-primary.mb-2 Seguridad
               p Su codificación debe incorporar controles de seguridad que garantice que solo los sistemas o interesados puedan hacer uso del contrato inteligente.
@@ -284,9 +284,9 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Ecosistema bitcoin',
+        titulo: 'Ecosistema <em>bitcoin</em>',
         texto:
-          'Este proyecto apalancado en proyectos denominados <em>Parachains</em> buscan brindar soluciones de diferentes tipos, en la siguiente figura puede consultar el ecosistema propuesto.',
+          'Este proyecto se ha convertido en una innovadora red de pagos y una nueva clase de dinero, tal como se muestra:',
         imagen: require('@/assets/curso/tema2/img21.jpg'),
       },
       {
@@ -310,7 +310,7 @@ export default {
       {
         titulo: 'Ecosistema Polkadot',
         texto:
-          'Este proyecto apalancado en proyectos denominados <em>Parachains</em> buscan brindar soluciones de diferentes tipos, en la siguiente figura puede consultar el ecosistema propuesto.',
+          'Este proyecto apalancado en proyectos denominados <em>parachains</em> buscan brindar soluciones de diferentes tipos, en la siguiente figura puede consultar el ecosistema propuesto.',
         imagen: require('@/assets/curso/tema2/img25.jpg'),
       },
     ],

@@ -189,7 +189,7 @@ export default {
     {
       tema: 'Documentación oficial del lenguaje de programación Solidity',
       referencia:
-        'Solitidy. (2022). <em>Solidity documentation. Solitidy</em>.',
+        'Solidity . (2022). <em>Solidity documentation. Solidity </em>.',
       tipo: 'Manual electrónico',
       link: 'https://docs.soliditylang.org/_/downloads/en/latest/pdf/',
     },
@@ -244,7 +244,7 @@ export default {
       link: 'https://gobiernodigital.mintic.gov.co/692/articles-161810_pdf.pdf',
     },
     {
-      referencia: 'Solitidy. (2022). Solidity documentation. Solitidy.',
+      referencia: 'Solidity. (2022). Solidity documentation. Solidity.',
       link: 'https://docs.soliditylang.org/_/downloads/en/latest/pdf/',
     },
     {
@@ -260,6 +260,12 @@ export default {
           nombre: 'Claudia Patricia Aristizabal',
           cargo: 'Líder del equipo',
           centro: 'Dirección General',
+        },
+        {
+          nombre: 'Liliana Morales',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

@@ -67,8 +67,8 @@
       <rect id="Rectángulo_313642" data-name="Rectángulo 313642" width="6.747" height="14.351" transform="translate(444.664 98.483)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_238132" data-name="Grupo 238132" transform="translate(9425 3102)">
-    <g id="Trazado_232695" data-name="Trazado 232695" transform="translate(-9425 -3102)" fill="#fff">
+  <g id="Grupo_238136" data-name="Grupo 238136" transform="translate(9425 3102)">
+    <g id="Trazado_232838" data-name="Trazado 232838" transform="translate(-9425 -3102)" fill="#fff">
       <path d="M 934.5 357.5 L 0.5 357.5 L 0.5 0.5 L 934.5 0.5 L 934.5 357.5 Z" stroke="none"/>
       <path d="M 1 1 L 1 357 L 934 357 L 934 1 L 1 1 M 0 0 L 935 0 L 935 358 L 0 358 L 0 0 Z" stroke="none" fill="#707070"/>
     </g>
@@ -77,297 +77,255 @@
     <path id="Trazado_232192" data-name="Trazado 232192" d="M26.528,27.64H151.6c14.383,0,26.13,11.208,26.238,25.035l1.531,196.413c.108,13.827-11.464,25.035-25.847,25.035H28.45c-14.383,0-26.13-11.208-26.238-25.035L.681,52.675C.573,38.848,12.145,27.64,26.528,27.64Z" transform="translate(-9231 -3073)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
     <path id="Trazado_232193" data-name="Trazado 232193" d="M392.737,27.64H517.808c14.383,0,26.13,11.208,26.238,25.035l1.531,196.413c.108,13.827-11.464,25.035-25.847,25.035H394.659c-14.383,0-26.13-11.208-26.238-25.035L366.89,52.675c-.108-13.827,11.464-25.035,25.847-25.035" transform="translate(-9231 -3073)" fill="#59e5f5"/>
     <path id="Trazado_232194" data-name="Trazado 232194" d="M392.737,27.64H517.808c14.383,0,26.13,11.208,26.238,25.035l1.531,196.413c.108,13.827-11.464,25.035-25.847,25.035H394.659c-14.383,0-26.13-11.208-26.238-25.035L366.89,52.675C366.782,38.848,378.354,27.64,392.737,27.64Z" transform="translate(-9231 -3073)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
-    <path id="Trazado_232696" data-name="Trazado 232696" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2979.92)" fill="#defafd"/>
-    <path id="Trazado_232697" data-name="Trazado 232697" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2979.92)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
+    <path id="Trazado_232839" data-name="Trazado 232839" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2979.92)" fill="#defafd"/>
+    <path id="Trazado_232840" data-name="Trazado 232840" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2979.92)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
     <path id="Trazado_232195" data-name="Trazado 232195" d="M367.029,181.8H189.583l.864,2.7-10.824-3.762,10.824-3.762-.864,2.7H367.029Z" transform="translate(-9231 -3073)"/>
-    <path id="Trazado_232698" data-name="Trazado 232698" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2913.001)" fill="#defafd"/>
-    <path id="Trazado_232699" data-name="Trazado 232699" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2913.001)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
-    <g id="Grupo_237787" data-name="Grupo 237787" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237786" data-name="Grupo 237786">
-        <g id="Grupo_237785" data-name="Grupo 237785" clip-path="url(#clip-path)">
-          <g id="Grupo_237784" data-name="Grupo 237784" style="isolation: isolate">
-            <g id="Grupo_237783" data-name="Grupo 237783">
-              <g id="Grupo_237782" data-name="Grupo 237782" clip-path="url(#clip-path)">
-                <text id="a_g_p" data-name="a, g, p" transform="translate(56.358 73.676)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">a, g, p</tspan></text>
-              </g>
+    <path id="Trazado_232841" data-name="Trazado 232841" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2913.001)" fill="#defafd"/>
+    <path id="Trazado_232842" data-name="Trazado 232842" d="M0,0H102.123V41.462H0Z" transform="translate(-9007.623 -2913.001)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
+    <g id="Grupo_237786" data-name="Grupo 237786" transform="translate(-9231 -3073)">
+      <g id="Grupo_237785" data-name="Grupo 237785" clip-path="url(#clip-path)">
+        <g id="Grupo_237784" data-name="Grupo 237784" style="isolation: isolate">
+          <g id="Grupo_237783" data-name="Grupo 237783">
+            <g id="Grupo_237782" data-name="Grupo 237782" clip-path="url(#clip-path)">
+              <text id="a_g_p" data-name="a, g, p" transform="translate(56.358 73.676)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">a, g, p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237793" data-name="Grupo 237793" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237792" data-name="Grupo 237792">
-        <g id="Grupo_237791" data-name="Grupo 237791" clip-path="url(#clip-path-3)">
-          <g id="Grupo_237790" data-name="Grupo 237790" style="isolation: isolate">
-            <g id="Grupo_237789" data-name="Grupo 237789">
-              <g id="Grupo_237788" data-name="Grupo 237788" clip-path="url(#clip-path-3)">
-                <text id="B" transform="translate(266.104 189.414)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">B</tspan></text>
-              </g>
+    <g id="Grupo_237792" data-name="Grupo 237792" transform="translate(-9231 -3073)">
+      <g id="Grupo_237791" data-name="Grupo 237791" clip-path="url(#clip-path-3)">
+        <g id="Grupo_237790" data-name="Grupo 237790" style="isolation: isolate">
+          <g id="Grupo_237789" data-name="Grupo 237789">
+            <g id="Grupo_237788" data-name="Grupo 237788" clip-path="url(#clip-path-3)">
+              <text id="B" transform="translate(266.104 189.414)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">B</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237799" data-name="Grupo 237799" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237798" data-name="Grupo 237798">
-        <g id="Grupo_237797" data-name="Grupo 237797" clip-path="url(#clip-path-5)">
-          <g id="Grupo_237796" data-name="Grupo 237796" style="isolation: isolate">
-            <g id="Grupo_237795" data-name="Grupo 237795">
-              <g id="Grupo_237794" data-name="Grupo 237794" clip-path="url(#clip-path-5)">
-                <text id="g_p_A" data-name="g, p, A" transform="translate(238.972 119.941)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">g, p,</tspan><tspan y="0" letter-spacing="-0.054em"> </tspan><tspan y="0">A</tspan></text>
-              </g>
+    <g id="Grupo_237798" data-name="Grupo 237798" transform="translate(-9231 -3073)">
+      <g id="Grupo_237797" data-name="Grupo 237797" clip-path="url(#clip-path-5)">
+        <g id="Grupo_237796" data-name="Grupo 237796" style="isolation: isolate">
+          <g id="Grupo_237795" data-name="Grupo 237795">
+            <g id="Grupo_237794" data-name="Grupo 237794" clip-path="url(#clip-path-5)">
+              <text id="g_p_A" data-name="g, p, A" transform="translate(238.972 119.941)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">g, p,</tspan><tspan y="0" letter-spacing="-0.054em"> </tspan><tspan y="0">A</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237805" data-name="Grupo 237805" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237804" data-name="Grupo 237804">
-        <g id="Grupo_237803" data-name="Grupo 237803" clip-path="url(#clip-path-7)">
-          <g id="Grupo_237802" data-name="Grupo 237802" style="isolation: isolate">
-            <g id="Grupo_237801" data-name="Grupo 237801">
-              <g id="Grupo_237800" data-name="Grupo 237800" clip-path="url(#clip-path-7)">
-                <text id="b-2" data-name="b" transform="translate(449.19 78.338)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237804" data-name="Grupo 237804" transform="translate(-9231 -3073)">
+      <g id="Grupo_237803" data-name="Grupo 237803" clip-path="url(#clip-path-7)">
+        <g id="Grupo_237802" data-name="Grupo 237802" style="isolation: isolate">
+          <g id="Grupo_237801" data-name="Grupo 237801">
+            <g id="Grupo_237800" data-name="Grupo 237800" clip-path="url(#clip-path-7)">
+              <text id="b-2" data-name="b" transform="translate(449.19 78.338)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237811" data-name="Grupo 237811" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237810" data-name="Grupo 237810">
-        <g id="Grupo_237809" data-name="Grupo 237809" clip-path="url(#clip-path-9)">
-          <g id="Grupo_237808" data-name="Grupo 237808" style="isolation: isolate">
-            <g id="Grupo_237807" data-name="Grupo 237807">
-              <g id="Grupo_237806" data-name="Grupo 237806" clip-path="url(#clip-path-9)">
-                <text id="Alice" transform="translate(64.227 20.822)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">Alice</tspan></text>
-              </g>
+    <g id="Grupo_237810" data-name="Grupo 237810" transform="translate(-9231 -3073)">
+      <g id="Grupo_237809" data-name="Grupo 237809" clip-path="url(#clip-path-9)">
+        <g id="Grupo_237808" data-name="Grupo 237808" style="isolation: isolate">
+          <g id="Grupo_237807" data-name="Grupo 237807">
+            <g id="Grupo_237806" data-name="Grupo 237806" clip-path="url(#clip-path-9)">
+              <text id="Alice" transform="translate(64.227 20.822)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">Alice</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237817" data-name="Grupo 237817" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237816" data-name="Grupo 237816">
-        <g id="Grupo_237815" data-name="Grupo 237815" clip-path="url(#clip-path-11)">
-          <g id="Grupo_237814" data-name="Grupo 237814" style="isolation: isolate">
-            <g id="Grupo_237813" data-name="Grupo 237813">
-              <g id="Grupo_237812" data-name="Grupo 237812" clip-path="url(#clip-path-11)">
-                <text id="Bob" transform="translate(434.237 20.822)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">Bob</tspan></text>
-              </g>
+    <g id="Grupo_237816" data-name="Grupo 237816" transform="translate(-9231 -3073)">
+      <g id="Grupo_237815" data-name="Grupo 237815" clip-path="url(#clip-path-11)">
+        <g id="Grupo_237814" data-name="Grupo 237814" style="isolation: isolate">
+          <g id="Grupo_237813" data-name="Grupo 237813">
+            <g id="Grupo_237812" data-name="Grupo 237812" clip-path="url(#clip-path-11)">
+              <text id="Bob" transform="translate(434.237 20.822)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">Bob</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237823" data-name="Grupo 237823" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237822" data-name="Grupo 237822">
-        <g id="Grupo_237821" data-name="Grupo 237821" clip-path="url(#clip-path-13)">
-          <g id="Grupo_237820" data-name="Grupo 237820" style="isolation: isolate">
-            <g id="Grupo_237819" data-name="Grupo 237819">
-              <g id="Grupo_237818" data-name="Grupo 237818" clip-path="url(#clip-path-13)">
-                <text id="A_g_mod_p" data-name="A = g  mod p" transform="translate(21.39 121.182)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" letter-spacing="-0.055em">A</tspan><tspan y="0" xml:space="preserve"> = g  mod p</tspan></text>
-              </g>
+    <g id="Grupo_237822" data-name="Grupo 237822" transform="translate(-9231 -3073)">
+      <g id="Grupo_237821" data-name="Grupo 237821" clip-path="url(#clip-path-13)">
+        <g id="Grupo_237820" data-name="Grupo 237820" style="isolation: isolate">
+          <g id="Grupo_237819" data-name="Grupo 237819">
+            <g id="Grupo_237818" data-name="Grupo 237818" clip-path="url(#clip-path-13)">
+              <text id="A_g_mod_p" data-name="A = g  mod p" transform="translate(21.39 121.182)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" letter-spacing="-0.055em">A</tspan><tspan y="0" xml:space="preserve"> = g  mod p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237829" data-name="Grupo 237829" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237828" data-name="Grupo 237828">
-        <g id="Grupo_237827" data-name="Grupo 237827" clip-path="url(#clip-path-15)">
-          <g id="Grupo_237826" data-name="Grupo 237826" style="isolation: isolate">
-            <g id="Grupo_237825" data-name="Grupo 237825">
-              <g id="Grupo_237824" data-name="Grupo 237824" clip-path="url(#clip-path-15)">
-                <text id="a" transform="translate(79.362 107.768)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
-              </g>
+    <g id="Grupo_237828" data-name="Grupo 237828" transform="translate(-9231 -3073)">
+      <g id="Grupo_237827" data-name="Grupo 237827" clip-path="url(#clip-path-15)">
+        <g id="Grupo_237826" data-name="Grupo 237826" style="isolation: isolate">
+          <g id="Grupo_237825" data-name="Grupo 237825">
+            <g id="Grupo_237824" data-name="Grupo 237824" clip-path="url(#clip-path-15)">
+              <text id="a" transform="translate(79.362 107.768)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237835" data-name="Grupo 237835" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237834" data-name="Grupo 237834">
-        <g id="Grupo_237833" data-name="Grupo 237833" clip-path="url(#clip-path-17)">
-          <g id="Grupo_237832" data-name="Grupo 237832" style="isolation: isolate">
-            <g id="Grupo_237831" data-name="Grupo 237831">
-              <g id="Grupo_237830" data-name="Grupo 237830" clip-path="url(#clip-path-17)">
-                <text id="K_A_mod_p_g_mod_p_mod_p_g_mod_p_g_mod_p_mod_p_B_mod_p" data-name="K = A  mod p = (g  mod p)  mod p = g   mod p = (g  mod p)  mod p = B  mod p" transform="translate(18.446 295.184)" font-size="14.828" font-family="ArialMT, Arial"><tspan x="0" y="0">K =</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.055em"> A</tspan><tspan y="0" xml:space="preserve">  mod p = (g  mod p)  mod p = g   mod p = (g  mod p)  mod p = B  mod p</tspan></text>
-              </g>
+    <g id="Grupo_237834" data-name="Grupo 237834" transform="translate(-9231 -3073)">
+      <g id="Grupo_237833" data-name="Grupo 237833" clip-path="url(#clip-path-17)">
+        <g id="Grupo_237832" data-name="Grupo 237832" style="isolation: isolate">
+          <g id="Grupo_237831" data-name="Grupo 237831">
+            <g id="Grupo_237830" data-name="Grupo 237830" clip-path="url(#clip-path-17)">
+              <text id="K_A_mod_p_g_mod_p_mod_p_g_mod_p_g_mod_p_mod_p_B_mod_p" data-name="K = A  mod p = (g  mod p)  mod p = g   mod p = (g  mod p)  mod p = B  mod p" transform="translate(18.446 295.184)" font-size="14.828" font-family="ArialMT, Arial"><tspan x="0" y="0">K =</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.055em"> A</tspan><tspan y="0" xml:space="preserve">  mod p = (g  mod p)  mod p = g   mod p = (g  mod p)  mod p = B  mod p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237841" data-name="Grupo 237841" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237840" data-name="Grupo 237840">
-        <g id="Grupo_237839" data-name="Grupo 237839" clip-path="url(#clip-path-19)">
-          <g id="Grupo_237838" data-name="Grupo 237838" style="isolation: isolate">
-            <g id="Grupo_237837" data-name="Grupo 237837">
-              <g id="Grupo_237836" data-name="Grupo 237836" clip-path="url(#clip-path-19)">
-                <text id="K_B_mod_p" data-name="K = B  mod p" transform="translate(19.133 188.242)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">K = B  mod p</tspan></text>
-              </g>
+    <g id="Grupo_237840" data-name="Grupo 237840" transform="translate(-9231 -3073)">
+      <g id="Grupo_237839" data-name="Grupo 237839" clip-path="url(#clip-path-19)">
+        <g id="Grupo_237838" data-name="Grupo 237838" style="isolation: isolate">
+          <g id="Grupo_237837" data-name="Grupo 237837">
+            <g id="Grupo_237836" data-name="Grupo 237836" clip-path="url(#clip-path-19)">
+              <text id="K_B_mod_p" data-name="K = B  mod p" transform="translate(19.133 188.242)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">K = B  mod p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237847" data-name="Grupo 237847" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237846" data-name="Grupo 237846">
-        <g id="Grupo_237845" data-name="Grupo 237845" clip-path="url(#clip-path-21)">
-          <g id="Grupo_237844" data-name="Grupo 237844" style="isolation: isolate">
-            <g id="Grupo_237843" data-name="Grupo 237843">
-              <g id="Grupo_237842" data-name="Grupo 237842" clip-path="url(#clip-path-21)">
-                <text id="a-2" data-name="a" transform="translate(78.453 174.83)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
-              </g>
+    <g id="Grupo_237846" data-name="Grupo 237846" transform="translate(-9231 -3073)">
+      <g id="Grupo_237845" data-name="Grupo 237845" clip-path="url(#clip-path-21)">
+        <g id="Grupo_237844" data-name="Grupo 237844" style="isolation: isolate">
+          <g id="Grupo_237843" data-name="Grupo 237843">
+            <g id="Grupo_237842" data-name="Grupo 237842" clip-path="url(#clip-path-21)">
+              <text id="a-2" data-name="a" transform="translate(78.453 174.83)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237853" data-name="Grupo 237853" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237852" data-name="Grupo 237852">
-        <g id="Grupo_237851" data-name="Grupo 237851" clip-path="url(#clip-path-23)">
-          <g id="Grupo_237850" data-name="Grupo 237850" style="isolation: isolate">
-            <g id="Grupo_237849" data-name="Grupo 237849">
-              <g id="Grupo_237848" data-name="Grupo 237848" clip-path="url(#clip-path-23)">
-                <text id="b-3" data-name="b" transform="translate(53.494 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237852" data-name="Grupo 237852" transform="translate(-9231 -3073)">
+      <g id="Grupo_237851" data-name="Grupo 237851" clip-path="url(#clip-path-23)">
+        <g id="Grupo_237850" data-name="Grupo 237850" style="isolation: isolate">
+          <g id="Grupo_237849" data-name="Grupo 237849">
+            <g id="Grupo_237848" data-name="Grupo 237848" clip-path="url(#clip-path-23)">
+              <text id="b-3" data-name="b" transform="translate(53.494 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237859" data-name="Grupo 237859" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237858" data-name="Grupo 237858">
-        <g id="Grupo_237857" data-name="Grupo 237857" clip-path="url(#clip-path-25)">
-          <g id="Grupo_237856" data-name="Grupo 237856" style="isolation: isolate">
-            <g id="Grupo_237855" data-name="Grupo 237855">
-              <g id="Grupo_237854" data-name="Grupo 237854" clip-path="url(#clip-path-25)">
-                <text id="a-3" data-name="a" transform="translate(134.015 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
-              </g>
+    <g id="Grupo_237858" data-name="Grupo 237858" transform="translate(-9231 -3073)">
+      <g id="Grupo_237857" data-name="Grupo 237857" clip-path="url(#clip-path-25)">
+        <g id="Grupo_237856" data-name="Grupo 237856" style="isolation: isolate">
+          <g id="Grupo_237855" data-name="Grupo 237855">
+            <g id="Grupo_237854" data-name="Grupo 237854" clip-path="url(#clip-path-25)">
+              <text id="a-3" data-name="a" transform="translate(134.015 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237865" data-name="Grupo 237865" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237864" data-name="Grupo 237864">
-        <g id="Grupo_237863" data-name="Grupo 237863" clip-path="url(#clip-path-27)">
-          <g id="Grupo_237862" data-name="Grupo 237862" style="isolation: isolate">
-            <g id="Grupo_237861" data-name="Grupo 237861">
-              <g id="Grupo_237860" data-name="Grupo 237860" clip-path="url(#clip-path-27)">
-                <text id="b-4" data-name="b" transform="translate(188.372 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237864" data-name="Grupo 237864" transform="translate(-9231 -3073)">
+      <g id="Grupo_237863" data-name="Grupo 237863" clip-path="url(#clip-path-27)">
+        <g id="Grupo_237862" data-name="Grupo 237862" style="isolation: isolate">
+          <g id="Grupo_237861" data-name="Grupo 237861">
+            <g id="Grupo_237860" data-name="Grupo 237860" clip-path="url(#clip-path-27)">
+              <text id="b-4" data-name="b" transform="translate(188.372 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237871" data-name="Grupo 237871" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237870" data-name="Grupo 237870">
-        <g id="Grupo_237869" data-name="Grupo 237869" clip-path="url(#clip-path-29)">
-          <g id="Grupo_237868" data-name="Grupo 237868" style="isolation: isolate">
-            <g id="Grupo_237867" data-name="Grupo 237867">
-              <g id="Grupo_237866" data-name="Grupo 237866" clip-path="url(#clip-path-29)">
-                <text id="ab" transform="translate(263.426 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">ab</tspan></text>
-              </g>
+    <g id="Grupo_237870" data-name="Grupo 237870" transform="translate(-9231 -3073)">
+      <g id="Grupo_237869" data-name="Grupo 237869" clip-path="url(#clip-path-29)">
+        <g id="Grupo_237868" data-name="Grupo 237868" style="isolation: isolate">
+          <g id="Grupo_237867" data-name="Grupo 237867">
+            <g id="Grupo_237866" data-name="Grupo 237866" clip-path="url(#clip-path-29)">
+              <text id="ab" transform="translate(263.426 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">ab</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237877" data-name="Grupo 237877" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237876" data-name="Grupo 237876">
-        <g id="Grupo_237875" data-name="Grupo 237875" clip-path="url(#clip-path-31)">
-          <g id="Grupo_237874" data-name="Grupo 237874" style="isolation: isolate">
-            <g id="Grupo_237873" data-name="Grupo 237873">
-              <g id="Grupo_237872" data-name="Grupo 237872" clip-path="url(#clip-path-31)">
-                <text id="b-5" data-name="b" transform="translate(346.804 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237876" data-name="Grupo 237876" transform="translate(-9231 -3073)">
+      <g id="Grupo_237875" data-name="Grupo 237875" clip-path="url(#clip-path-31)">
+        <g id="Grupo_237874" data-name="Grupo 237874" style="isolation: isolate">
+          <g id="Grupo_237873" data-name="Grupo 237873">
+            <g id="Grupo_237872" data-name="Grupo 237872" clip-path="url(#clip-path-31)">
+              <text id="b-5" data-name="b" transform="translate(346.804 286.797)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237883" data-name="Grupo 237883" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237882" data-name="Grupo 237882">
-        <g id="Grupo_237881" data-name="Grupo 237881" clip-path="url(#clip-path-33)">
-          <g id="Grupo_237880" data-name="Grupo 237880" style="isolation: isolate">
-            <g id="Grupo_237879" data-name="Grupo 237879">
-              <g id="Grupo_237878" data-name="Grupo 237878" clip-path="url(#clip-path-33)">
-                <text id="a-4" data-name="a" transform="translate(399.813 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
-              </g>
+    <g id="Grupo_237882" data-name="Grupo 237882" transform="translate(-9231 -3073)">
+      <g id="Grupo_237881" data-name="Grupo 237881" clip-path="url(#clip-path-33)">
+        <g id="Grupo_237880" data-name="Grupo 237880" style="isolation: isolate">
+          <g id="Grupo_237879" data-name="Grupo 237879">
+            <g id="Grupo_237878" data-name="Grupo 237878" clip-path="url(#clip-path-33)">
+              <text id="a-4" data-name="a" transform="translate(399.813 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237889" data-name="Grupo 237889" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237888" data-name="Grupo 237888">
-        <g id="Grupo_237887" data-name="Grupo 237887" clip-path="url(#clip-path-35)">
-          <g id="Grupo_237886" data-name="Grupo 237886" style="isolation: isolate">
-            <g id="Grupo_237885" data-name="Grupo 237885">
-              <g id="Grupo_237884" data-name="Grupo 237884" clip-path="url(#clip-path-35)">
-                <text id="a-5" data-name="a" transform="translate(477.086 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
-              </g>
+    <g id="Grupo_237888" data-name="Grupo 237888" transform="translate(-9231 -3073)">
+      <g id="Grupo_237887" data-name="Grupo 237887" clip-path="url(#clip-path-35)">
+        <g id="Grupo_237886" data-name="Grupo 237886" style="isolation: isolate">
+          <g id="Grupo_237885" data-name="Grupo 237885">
+            <g id="Grupo_237884" data-name="Grupo 237884" clip-path="url(#clip-path-35)">
+              <text id="a-5" data-name="a" transform="translate(477.086 286.047)" font-size="8.088" font-family="ArialMT, Arial"><tspan x="0" y="0">a</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237895" data-name="Grupo 237895" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237894" data-name="Grupo 237894">
-        <g id="Grupo_237893" data-name="Grupo 237893" clip-path="url(#clip-path-37)">
-          <g id="Grupo_237892" data-name="Grupo 237892" style="isolation: isolate">
-            <g id="Grupo_237891" data-name="Grupo 237891">
-              <g id="Grupo_237890" data-name="Grupo 237890" clip-path="url(#clip-path-37)">
-                <text id="K_A_mod_p" data-name="K = A  mod p" transform="translate(385.342 189.367)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">K =</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.055em"> A</tspan><tspan y="0" xml:space="preserve">  mod p</tspan></text>
-              </g>
+    <g id="Grupo_237894" data-name="Grupo 237894" transform="translate(-9231 -3073)">
+      <g id="Grupo_237893" data-name="Grupo 237893" clip-path="url(#clip-path-37)">
+        <g id="Grupo_237892" data-name="Grupo 237892" style="isolation: isolate">
+          <g id="Grupo_237891" data-name="Grupo 237891">
+            <g id="Grupo_237890" data-name="Grupo 237890" clip-path="url(#clip-path-37)">
+              <text id="K_A_mod_p" data-name="K = A  mod p" transform="translate(385.342 189.367)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0">K =</tspan><tspan y="0" xml:space="preserve" letter-spacing="-0.055em"> A</tspan><tspan y="0" xml:space="preserve">  mod p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237901" data-name="Grupo 237901" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237900" data-name="Grupo 237900">
-        <g id="Grupo_237899" data-name="Grupo 237899" clip-path="url(#clip-path-39)">
-          <g id="Grupo_237898" data-name="Grupo 237898" style="isolation: isolate">
-            <g id="Grupo_237897" data-name="Grupo 237897">
-              <g id="Grupo_237896" data-name="Grupo 237896" clip-path="url(#clip-path-39)">
-                <text id="b-6" data-name="b" transform="translate(443.314 175.955)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237900" data-name="Grupo 237900" transform="translate(-9231 -3073)">
+      <g id="Grupo_237899" data-name="Grupo 237899" clip-path="url(#clip-path-39)">
+        <g id="Grupo_237898" data-name="Grupo 237898" style="isolation: isolate">
+          <g id="Grupo_237897" data-name="Grupo 237897">
+            <g id="Grupo_237896" data-name="Grupo 237896" clip-path="url(#clip-path-39)">
+              <text id="b-6" data-name="b" transform="translate(443.314 175.955)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237907" data-name="Grupo 237907" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237906" data-name="Grupo 237906">
-        <g id="Grupo_237905" data-name="Grupo 237905" clip-path="url(#clip-path-41)">
-          <g id="Grupo_237904" data-name="Grupo 237904" style="isolation: isolate">
-            <g id="Grupo_237903" data-name="Grupo 237903">
-              <g id="Grupo_237902" data-name="Grupo 237902" clip-path="url(#clip-path-41)">
-                <text id="B_g_mod_p" data-name="B = g  mod p" transform="translate(386.692 122.307)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">B = g  mod p</tspan></text>
-              </g>
+    <g id="Grupo_237906" data-name="Grupo 237906" transform="translate(-9231 -3073)">
+      <g id="Grupo_237905" data-name="Grupo 237905" clip-path="url(#clip-path-41)">
+        <g id="Grupo_237904" data-name="Grupo 237904" style="isolation: isolate">
+          <g id="Grupo_237903" data-name="Grupo 237903">
+            <g id="Grupo_237902" data-name="Grupo 237902" clip-path="url(#clip-path-41)">
+              <text id="B_g_mod_p" data-name="B = g  mod p" transform="translate(386.692 122.307)" font-size="24.264" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">B = g  mod p</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Grupo_237913" data-name="Grupo 237913" transform="translate(-9231 -3073)" style="isolation: isolate">
-      <g id="Grupo_237912" data-name="Grupo 237912">
-        <g id="Grupo_237911" data-name="Grupo 237911" clip-path="url(#clip-path-43)">
-          <g id="Grupo_237910" data-name="Grupo 237910" style="isolation: isolate">
-            <g id="Grupo_237909" data-name="Grupo 237909">
-              <g id="Grupo_237908" data-name="Grupo 237908" clip-path="url(#clip-path-43)">
-                <text id="b-7" data-name="b" transform="translate(444.664 108.894)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
-              </g>
+    <g id="Grupo_237912" data-name="Grupo 237912" transform="translate(-9231 -3073)">
+      <g id="Grupo_237911" data-name="Grupo 237911" clip-path="url(#clip-path-43)">
+        <g id="Grupo_237910" data-name="Grupo 237910" style="isolation: isolate">
+          <g id="Grupo_237909" data-name="Grupo 237909">
+            <g id="Grupo_237908" data-name="Grupo 237908" clip-path="url(#clip-path-43)">
+              <text id="b-7" data-name="b" transform="translate(444.664 108.894)" font-size="12.132" font-family="ArialMT, Arial"><tspan x="0" y="0">b</tspan></text>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <path id="Trazado_232700" data-name="Trazado 232700" d="M0,0H546.258V300H0Z" transform="translate(-9231 -3073)" fill="none"/>
+    <path id="Trazado_232843" data-name="Trazado 232843" d="M0,0H546.258V300H0Z" transform="translate(-9231 -3073)" fill="none"/>
+    <path id="Trazado_232844" data-name="Trazado 232844" d="M8.161,13H5.851V5.645l-2.27.663V4.558L7.949,3.047h.212Z" transform="translate(-9008 -2997)" fill="#12263f"/>
+    <path id="Trazado_232845" data-name="Trazado 232845" d="M10,13H3.055V11.5l3.2-3.363a3.818,3.818,0,0,0,1.183-2.14,1.488,1.488,0,0,0-.28-.978,1,1,0,0,0-.813-.335,1.013,1.013,0,0,0-.854.448A1.84,1.84,0,0,0,5.16,6.246H2.85a3.269,3.269,0,0,1,.458-1.692A3.212,3.212,0,0,1,4.579,3.341,3.777,3.777,0,0,1,6.4,2.9a3.715,3.715,0,0,1,2.485.745,2.66,2.66,0,0,1,.872,2.14,3.107,3.107,0,0,1-.219,1.145A5.021,5.021,0,0,1,8.855,8.1,17.134,17.134,0,0,1,7.368,9.739L6.083,11.223H10Z" transform="translate(-9008 -2931)" fill="#12263f"/>
   </g>
 </svg>

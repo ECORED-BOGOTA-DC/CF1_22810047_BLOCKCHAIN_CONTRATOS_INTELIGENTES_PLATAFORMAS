@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.BGIMG01.p-4.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p Son métodos y mecanismos para mantener segura la información, haciendo uso de técnicas, algoritmos y códigos que procesan un dato entrante, limitando la lectura o interpretación por un tercero no autorizado.
-        p.mb-0 Ahora bien, ya conoce que el #[em blockchain] es una red segura y cifrada que almacena la información en bloques y, el hecho de necesitar interactuar con esta información obliga a mantener canales como mecanismos de operación seguros implementados en los contratos inteligentes, que en primer lugar logren interactuar con los protocolos nativos de la red, así como garantizar la seguridad de la información intercambiada.
+        p.mb-0 Teniendo en cuenta que el #[em blockchain] es una red segura y cifrada que almacena la información en bloques, el hecho de necesitar interactuar con esta información obliga a mantener canales como mecanismos de operación seguros implementados en los contratos inteligentes, que en primer lugar logren interactuar con los protocolos nativos de la red, así como garantizar la seguridad de la información intercambiada.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img01.png") 
 
@@ -25,13 +25,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img02.png')})`}" data-aos="fade-right"
           )
           .bloque-texto-g__texto.py-md-5.py-4.px-4(data-aos="fade-left")
-            p.mb-0 El #[em blockchain] es una estructura de datos que almacena información en bloques a los cuales puede agregarse información denominada metainformación, además cuenta con su propio #[em hash] y el #[em hash] del bloque inmediatamente anterior, la cual permite mantener una estrecha relación con otros bloques de una red sosteniendo una relación y línea temporal; la información se almacena haciendo uso.
+            p.mb-0 El #[em blockchain] es una estructura de datos que almacena información en bloques a los cuales puede agregarse información denominada metainformación, además cuenta con su propio #[em hash] y el #[em hash] del bloque inmediatamente anterior, lo que permite mantener una estrecha relación con otros bloques de una red sosteniendo una relación y línea temporal.
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Conceptos relacionados con la criptografía
     
-    p En relación a la criptografía son varios los términos de uso que se encuentran asociados, a continuación, podrá relacionar aquellos indispensables para entender mejor este concepto, véalo:
+    p En relación con la criptografía son varios los términos de uso que se encuentran asociados, a continuación, podrá relacionar aquellos indispensables para entender mejor este concepto:
   
     .BGIMG02.px-md-5.px-4.py-4.mb-4(data-aos="fade-right")
       TabsA.color-primario.mb-5
@@ -80,7 +80,7 @@
           .row.justify-content-center
             .col-lg-8.order-lg-1.order-2
               h4 Firma digital
-              p Es un mecanismo mediante el cual permite al receptor de un mensaje garantizar que el origen es auténtico, así mismo, se puede comprobar si un mensaje ha sido modificado o se conserva intacto. Aquí están las dos fases para la realización de la firma digital:
+              p Es un mecanismo que permite al receptor de un mensaje garantizar que el origen es auténtico, así mismo, se puede comprobar si un mensaje ha sido modificado o se conserva intacto. Aquí están las dos fases para la realización de la firma digital:
               ul.lista-ul--color
                 li
                   i.fas.fa-play(style="color: #8628A5; font-size: x-small")
@@ -100,10 +100,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Video
+                  h3.mb-1 Cifrado de datos
                   p.mb-0 Puede conocer más sobre el proceso de cifrado en el siguiente video de la empresa ESET Latinoamérica titulado Cifrado de datos: qué es y cómo puede ayudarte a proteger tu información en Internet.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/embed/2L91WMqw96A" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wcJBmoz6Vlk&ab_channel=ESETLatinoam%C3%A9rica" target="_blank")
                     span(style="color: #000; font-weight: 400") Ver video
                     i.fas.fa-link(style="color: #000") 
 
@@ -111,7 +111,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Llave privada (simétrica)
 
-    p La criptografía basada en llave privada o también conocida como criptografía simétrica consta de una sola en el proceso, esta clave se utiliza tanto para el cifrado como para el proceso de descifrado, como se puede apreciar en la figura No. 1.
+    p La criptografía basada en llave privada o también conocida como criptografía simétrica consta de una sola clave en el proceso, esta clave se utiliza tanto para el cifrado como para el proceso de descifrado, como se puede apreciar en la Figura 1.
 
     .BGM02.px-md-5.px-4.py-4.mb-4
       .row.justify-content-center.mb-4(data-aos="zoom-in")
@@ -129,7 +129,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Llave pública (asimétrica)
 
-    p La criptografía de llave pública o también conocida como asimétrica utiliza 2 claves, las cuales son: llave pública utilizada para el proceso de cifrado y la llave privada que es utilizada para el proceso de descifrado y la cual es compartida con el receptor de la información, tal como se presenta en la figura No 2.
+    p La criptografía de llave pública, también conocida como asimétrica utiliza 2 claves, las cuales son: llave pública utilizada para el proceso de cifrado y la llave privada que es utilizada para el proceso de descifrado y la cual es compartida con el receptor de la información, tal como se presenta en la figura No 2.
 
     .BGM02.px-md-5.px-4.py-4.mb-4
       .row.justify-content-center.mb-4(data-aos="zoom-in")
@@ -148,15 +148,15 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Algoritmos de cifrado 
 
-    p.mb-5 Como pudo observar anteriormente, existen 2 tipos de criptografía como son la llave privada (simétrica) y llave pública (asimétrica), para lo cual se puede observar algunos de los siguientes algoritmos para cada uno de estos tipos de criptografía:
+    p.mb-5 Como pudo observar anteriormente, existen 2 tipos de criptografía, la llave privada (simétrica) y llave pública (asimétrica), para lo cual se puede observar algunos de los siguientes algoritmos para cada uno de estos tipos de criptografía:
 
     .mb-4
       .d-flex.flex-wrap.align-items-center(data-aos="fade-right")
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 50px;")
         .h3.col-auto.pb-2.mb-0.ms-2(style=" border-bottom: 2px solid #8628A5;") Llave privada (simétrica)
     
-    p Los algoritmos utilizados en este tipo de criptografía al contar con una misma clave para el cifrado como para el descifrado cuentan con un factor importante que es su rapidez, la cual puede ser aprovechada por la nueva tecnología y realizar este proceso de manera inmediata
-    .h4.text-center.mb-5 Existen 2 algoritmos muy utilizados en este tipo de criptografía, que puede visualizar en la imagen que se presenta a continuación:
+    p Los algoritmos utilizados en este tipo de criptografía al contar con una misma clave tanto para el cifrado como para el descifrado cuentan con un factor importante que es su rapidez, la cual puede ser aprovechada por la nueva tecnología y realizar este proceso de manera inmediata
+    .h4.text-center.mb-5 Existen 2 algoritmos muy utilizados en este tipo de criptografía, que se presentan a continuación:
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-lg-10
@@ -169,8 +169,8 @@
     .h4.text-center.mb-5 Ahora se procederá a realizar una explicación de estos algoritmos:
 
     LineaTiempoD.color-secundario.mb-5(data-aos="flip-up")
-      .row.p-4(numero="1" titulo="AES (<em>Advanced Encryption Standard</em>)")
-        p Este algoritmo reemplazó al algoritmo DES y se utiliza comúnmente en canales y protocolos seguros como TLS, FTPES, VPS, entre otros. Además, puede ser aprovechado tanto por #[em software] como por #[em hardware]; este es un algoritmo de cifrado por bloques, cada bloque cuenta con un tamaño fijo de 128 #[em bits], su longitud de la clave puede ser variable entre 128, 192 y 256 #[em bits].
+      .row.p-4(numero="1" titulo="AES (Advanced Encryption Standard)")
+        p Este algoritmo reemplazó al algoritmo DES y se utiliza comúnmente en canales y protocolos seguros como TLS, FTPES, VPS, entre otros. Además, puede ser aprovechado tanto por #[em software] como por #[em hardware]; este es un algoritmo de cifrado por bloques, cada bloque cuenta con un tamaño fijo de 128 bits, su longitud de la clave puede ser variable entre 128, 192 y 256 bits.
         p AES cuenta con diferentes modos de cifrado o manera de gestionar sus bloques, cada uno de ellos operando de manera diferente, entre los cuales se encuentra la siguiente distribución, como se aprecia en el recurso educativo a continuación:
         .row.justify-content-center.mb-4
           .col-lg-9
@@ -180,25 +180,25 @@
                   img(src='@/assets/curso/tema1/img12.png')
 
               div(x="8.5%" y="30.5%" tooltip="CBC (Cipher-block chaining)" numero="1")
-                .h5.mb-2 CBC (#[em Cipher-block chaining])
+                .h5.mb-2 CBC (Cipher-Block Chaining)
                 p Trabaja con una función hash para comprobar la autenticidad de la información, con este modo de cifrado a cada bloque de texto sin formato se le aplica una operación XOR con el bloque de cifrado anterior, cada bloque cifrado es dependiente de lo procesado hasta ese punto. Para realizar esta opción XOR con el primer bloque de texto se hace uso de un vector de inicialización IV. Este modo de cifrado se realiza de forma secuencial, no permite ser tratado de forma paralela para aumentar el rendimiento en el cifrado/descifrado de los datos.
                 img(src="@/assets/curso/tema1/img16.svg")
               div(x="93%" y="30.5%" tooltip="OFB (Output feedback)" numero="2")
-                .h5.mb-2 OFB (#[em Output feedback])
+                .h5.mb-2 OFB (Output Feedback)
                 p Utiliza una clave secreta para crear un bloque seudo-aleatorio al que se le aplica la operación XOR con el texto sin formato para cifrar el texto, también requiere de un vector de inicialización único para cada mensaje, no se puede paralelizar.
                 img(src="@/assets/curso/tema1/img17.svg")
               div(x="90%" y="85%" tooltip="CFB (Cipher feedback)" numero="3")
-                .h5.mb-2 CFB (#[em Cipher feedback])
+                .h5.mb-2 CFB (Cipher Feedback)
                 p Funciona similar al OFB, a diferencia que para producir el #[em keystream] cifra el último bloque de cifrado, en lugar del último bloque del #[em keystream] como hace OFB, no se puede paralelizar el cifrado, aunque el descifrado sí.
                 img(src="@/assets/curso/tema1/img18.svg")
               div(x="8.5%" y="85%" tooltip="GCM (Galois/Counter Mode)" numero="4")
-                .h5.mb-2 GCM (#[em Galois/Counter Mode])
+                .h5.mb-2 GCM (Galois/Counter Mode)
                 p Considerado uno de los mejores por su seguridad y velocidad, permite procesar en paralelo y es compatible con procesadores AES-NI para acelerar el rendimiento en cifrado/descifrado de información. Este modo de cifrado es AEAD, además de cifrar información es capaz de autenticarla y comprobar la integridad de la misma para garantizar que no se ha modificado. Puede aceptar también vectores de inicialización aleatorios.
                 img(src="@/assets/curso/tema1/img19.svg")
 
         p AES es uno de los algoritmos más utilizados actualmente; pero el modo más recomendado es AES-GCM ya que incorpora AEAD
       .row.p-4(numero="2" titulo="ChaCha20")
-        p Este algoritmo soporta claves de 128 y 256 #[em bits] y de alta velocidad, a diferencia de AES que es un cifrado por bloques, este es un cifrado de flujo, presenta características similares a su predecesor Salsa20; pero con una función primitiva de 12 o 20 rondas distintas. Ver figura.
+        p Este algoritmo soporta claves de 128 y 256 bits y de alta velocidad, a diferencia de AES que es un cifrado por bloques, este es un cifrado de flujo, presenta características similares a su predecesor Salsa20; pero con una función primitiva de 12 o 20 rondas distintas. Ver figura.
         .titulo-sexto.color-acento-contenido
           h5 Figura 4
           span Algoritmo de cifrado ChaCha20
@@ -234,7 +234,7 @@
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img14.svg')
     
-    .h4.text-center Aquí también se encuentran algunos algoritmos propios para el cifrado y descifrado de información, los cuales se presentan en el siguiente recurso educativo:
+    .h4.text-center Aquí también se encuentran algunos algoritmos propios para el cifrado y descifrado de información, los cuales se presentan en el siguiente recurso educativo encontrará algunos algoritmos propios para el cifrado y descifrado de información:
 
     .BGIMG02.px-md-5.px-4.py-4.mb-4
       .row.justify-content-center.mb-4
@@ -250,11 +250,11 @@
               img(src='@/assets/curso/tema1/img20.svg')
             div(x="77.5%" y="32%" tooltip="Algoritmo RSA" numero="2")
               .h5.mb-2 Algoritmo RSA
-              p Se basa en la pareja de claves, la pública y la privada. Su seguridad radica en el problema de la factorización de números enteros muy grandes, y en el problema RSA, porque descifra por completo un texto cifrado con RSA no es posible actualmente, aunque sí un descifrado parcial. Algunas características muy importantes de RSA es la longitud de clave, actualmente como mínimo se debe utilizar una longitud de 2048 #[em bits], aunque es recomendable que sea de 4096 #[em bits] o superior para tener una mayor seguridad.
+              p Se basa en la pareja de claves, la pública y la privada. Su seguridad radica en el problema de la factorización de números enteros muy grandes, y en el problema RSA, porque descifrar por completo un texto cifrado con RSA no es posible actualmente, aunque sí un descifrado parcial. Algunas características muy importantes de RSA es la longitud de clave, actualmente como mínimo se debe utilizar una longitud de 2048 bits, aunque es recomendable que sea de 4096 bits o superior para tener una mayor seguridad.
               img(src='@/assets/curso/tema1/img21.svg')
             div(x="50.7%" y="67.8%" tooltip="Algoritmo DSA" numero="3")
               .h5.mb-2 Algoritmo DSA
-              p Este algoritmo requiere de mucho más tiempo de cómputo que RSA al igualdad de #[em hardware]. Es utilizado como algoritmo de firma digital, lo que lo convierte en un estándar, DSA no cifra datos, solamente se utiliza como firma digital. Este algoritmo se utiliza ampliamente en las conexiones SSH para comprobar la firma digital de los clientes, además, existe una variante de DSA basada en curvas elípticas (ECDSA), y está disponible en todas las librerías criptográficas actuales como #[em OpenSSL, GnuTLS o LibreSSL]. Otra característica de DSA es la longitud de clave, la mínima longitud de clave es de 512 #[em bits], aunque lo más habitual es usar 1024 #[em bits].
+              p Este algoritmo requiere de mucho más tiempo de cómputo que RSA al igualdad de #[em hardware]. Es utilizado como algoritmo de firma digital, lo que lo convierte en un estándar, DSA no cifra datos, solamente se utiliza como firma digital. Este algoritmo se utiliza ampliamente en las conexiones SSH para comprobar la firma digital de los clientes, además, existe una variante de DSA basada en curvas elípticas (ECDSA), y está disponible en todas las librerías criptográficas actuales como #[em OpenSSL, GnuTLS o LibreSSL]. Otra característica de DSA es la longitud de clave, la mínima longitud de clave es de 512 bits, aunque lo más habitual es usar 1024 bits.
               img(src='@/assets/curso/tema1/img22.svg')
           p Estos algoritmos de cifrado pueden ser utilizados en diferentes modelos y lógicas de negocio de los contratos inteligentes que necesite diseñar, basta con identificar claramente los sistemas con los cuales se requiere interactuar y sobre cuáles componentes para tomar la decisión de uso.
 
