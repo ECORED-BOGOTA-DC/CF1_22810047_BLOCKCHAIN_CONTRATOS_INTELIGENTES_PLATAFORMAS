@@ -189,7 +189,7 @@ export default {
     {
       tema: 'Documentación oficial del lenguaje de programación Solidity',
       referencia:
-        'Solidity . (2022). <em>Solidity documentation. Solidity </em>.',
+        'Solidity. (2022). <em>Solidity documentation. Solidity</em>.',
       tipo: 'Manual electrónico',
       link: 'https://docs.soliditylang.org/_/downloads/en/latest/pdf/',
     },

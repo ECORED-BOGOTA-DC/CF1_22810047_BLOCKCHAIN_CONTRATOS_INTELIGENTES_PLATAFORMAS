@@ -84,10 +84,10 @@
               ul.lista-ul--color
                 li
                   i.fas.fa-play(style="color: #8628A5; font-size: x-small")
-                  | <a style="color: #8628A5; font-weight: 900">Proceso de firma:</a> el emisor cifra los datos con la clave privada y los manda al receptor.
+                  p.mb-0 <a style="color: #8628A5; font-weight: 900">Proceso de firma:</a> el emisor cifra los datos con la clave privada y los manda al receptor.
                 li
                   i.fas.fa-play(style="color: #8628A5; font-size: x-small")
-                  | <a style="color: #8628A5; font-weight: 900">Verificar la firma:</a> el receptor descifra los datos usando la clave pública del emisor y comprueba que la información coincide con los datos originales (si coincide es que no se ha modificado).
+                  p.mb-0 <a style="color: #8628A5; font-weight: 900">Verificar la firma:</a> el receptor descifra los datos usando la clave pública del emisor y comprueba que la información coincide con los datos originales (si coincide es que no se ha modificado).
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema1/img07.png") 
 
@@ -204,7 +204,7 @@
           span Algoritmo de cifrado ChaCha20
         figure
           img(src="@/assets/curso/tema1/img13.svg")
-          figcaption Nota. <a style="font-weight: 400">Tomado de  A lightweight security scheme for advanced metering infrastructures in smart grid (researchgate.net)</a>
+          figcaption.text-center Nota. <a style="font-weight: 400">Tomado de  A lightweight security scheme for advanced metering infrastructures in smart grid (researchgate.net)</a>
       
     .mb-4
       .d-flex.flex-wrap.align-items-center(data-aos="fade-right")
@@ -234,7 +234,7 @@
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img14.svg')
     
-    .h4.text-center Aquí también se encuentran algunos algoritmos propios para el cifrado y descifrado de información, los cuales se presentan en el siguiente recurso educativo encontrará algunos algoritmos propios para el cifrado y descifrado de información:
+    .h4.text-center En el siguiente recurso educativo encontrará algunos algoritmos propios para el cifrado y descifrado de información:
 
     .BGIMG02.px-md-5.px-4.py-4.mb-4
       .row.justify-content-center.mb-4
@@ -252,7 +252,7 @@
               .h5.mb-2 Algoritmo RSA
               p Se basa en la pareja de claves, la pública y la privada. Su seguridad radica en el problema de la factorización de números enteros muy grandes, y en el problema RSA, porque descifrar por completo un texto cifrado con RSA no es posible actualmente, aunque sí un descifrado parcial. Algunas características muy importantes de RSA es la longitud de clave, actualmente como mínimo se debe utilizar una longitud de 2048 bits, aunque es recomendable que sea de 4096 bits o superior para tener una mayor seguridad.
               img(src='@/assets/curso/tema1/img21.svg')
-            div(x="50.7%" y="67.8%" tooltip="Algoritmo DSA" numero="3")
+            div(x="50.5%" y="67.5%" tooltip="Algoritmo DSA" numero="3")
               .h5.mb-2 Algoritmo DSA
               p Este algoritmo requiere de mucho más tiempo de cómputo que RSA al igualdad de #[em hardware]. Es utilizado como algoritmo de firma digital, lo que lo convierte en un estándar, DSA no cifra datos, solamente se utiliza como firma digital. Este algoritmo se utiliza ampliamente en las conexiones SSH para comprobar la firma digital de los clientes, además, existe una variante de DSA basada en curvas elípticas (ECDSA), y está disponible en todas las librerías criptográficas actuales como #[em OpenSSL, GnuTLS o LibreSSL]. Otra característica de DSA es la longitud de clave, la mínima longitud de clave es de 512 bits, aunque lo más habitual es usar 1024 bits.
               img(src='@/assets/curso/tema1/img22.svg')

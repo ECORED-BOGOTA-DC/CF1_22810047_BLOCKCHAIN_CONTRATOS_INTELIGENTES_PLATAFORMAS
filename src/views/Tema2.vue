@@ -9,8 +9,8 @@
     
     .row.justify-content-center.align-items-center.BGIMG01.p-4.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p Han surgido con la aparición del #[em blockchain] a mediados de los años 90, cuando el criptólogo Nick Szabo buscó la manera de proporcionar mecanismos que permitieran el comercio electrónico adaptándose a los nuevos retos bajo la red de #[em blockchain], a partir de ese momento han surgido iniciativas sobre cómo garantizar el desarrollo de estas actividades con la seguridad y confiabilidad necesaria y que brinde la confianza al usuario, de esta forma surgen los contratos inteligentes, los cuales permitieron programar técnicamente la lógica y controles necesarios para garantizar la seguridad y confidencialidad de la información.
-        p.mb-0 A continuación, va a conocer un poco sobre qué son los contratos inteligentes y cómo se puede determinar las características para su construcción.
+        p Han surgido con la aparición del #[em blockchain] a mediados de los años 90, cuando el criptólogo Nick Szabo buscó la manera de proporcionar mecanismos que permitieran el comercio electrónico adaptándose a los nuevos retos bajo la red de #[em blockchain], a partir de ese momento han surgido iniciativas para garantizar el desarrollo de estas actividades con la seguridad y confiabilidad necesaria y que brinde la confianza al usuario; de esta forma surgen los contratos inteligentes, los cuales permitieron programar técnicamente la lógica y controles necesarios para garantizar la seguridad y confidencialidad de la información.
+        p.mb-0 A continuación, va a conocer un poco sobre qué son los contratos inteligentes y cómo se pueden determinar las características para su construcción.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema2/img01.png")
     
@@ -44,55 +44,55 @@
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img05.png')
+                  img(src='@/assets/curso/tema2/img05.svg')
               .h4.text-center.font-primary Gobierno y administraciones públicas
               p.mb-0 Seguridad en los registros y trazabilidad en las operaciones.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img06.png')
+                  img(src='@/assets/curso/tema2/img06.svg')
               .h4.text-center.font-primary Mercados inmobiliarios
               p.mb-0 Transparencia e inmutabilidad, además de agilidad en los negocios.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img07.png')
+                  img(src='@/assets/curso/tema2/img07.svg')
               .h4.text-center.font-primary Transporte
               p.mb-0 Eficacia, seguridad en inmutabilidad de los datos.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img08.png')
+                  img(src='@/assets/curso/tema2/img08.svg')
               .h4.text-center.font-primary Automóvil
               p.mb-0 Desde recordación de deudas, hasta autos que se manejan solos.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img09.png')
+                  img(src='@/assets/curso/tema2/img09.svg')
               .h4.text-center.font-primary Salud
               p.mb-0 Minimizar la complejidad de los métodos tradicionales.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img10.png')
+                  img(src='@/assets/curso/tema2/img10.svg')
               .h4.text-center.font-primary Auditoría
               p.mb-0 Campo especializado a nivel profesional, que va en aumento.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img11.png')
+                  img(src='@/assets/curso/tema2/img11.svg')
               .h4.text-center.font-primary Compañías de seguros
               p.mb-0 Reducción de costos, garantías de seguridad.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img12.png')
+                  img(src='@/assets/curso/tema2/img12.svg')
               .h4.text-center.font-primary Banca
               p.mb-0 Capacidad de autoejecutar acciones, reducción de intermediarios.
             .BGR03.p-3
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src='@/assets/curso/tema2/img13.png')
+                  img(src='@/assets/curso/tema2/img13.svg')
               .h4.text-center.font-primary Notariado y Registro
               p.mb-0 Permite proteger al ciudadano, agiliza la certificación, y disminuye la demora en el trámite.
 
@@ -105,7 +105,7 @@
           span Comparación de contratos tradicionales vs. contratos inteligentes
         figure.mb-4(data-aos="zoom-in")
           img(src="@/assets/curso/tema2/img14.svg")
-          figcaption Nota. <a style="font-weight: 400">Adaptado de What are #[em Smart Contracts]. How Ethereum #[em Smart Contracts Work] (Edureka, s.f.).</a>
+          figcaption Nota. <a style="font-weight: 400">Adaptado de #[em What are Smart Contracts. How Ethereum Smart Contracts Work] (Edureka, s.f.).</a>
         .cajon.color-secundario.p-4
           .row.justify-content-center(data-aos="flip-up")
             .col-lg-2.col-4
@@ -253,23 +253,23 @@
                   p.mb-0 Estos son los proyectos de cada uno de los ecosistemas revisados anteriormente, los cuales puede consultar en los siguientes enlaces a su disposición:
                 .col-lg-8
                   .row.justify-content-center
-                    .col-lg.col-4
+                    .col-xl.col-lg-3.col-4
                       figure.mb-3
                         img.ms-3.w-75(src="@/assets/curso/tema2/img26.png")
                       .h4.text-center.text-white.mb-0 <a href="https://bitcoin.org/" target="_blank">Bitcoin</a>
-                    .col-lg.col-4
+                    .col-xl.col-lg-3.col-4
                       figure.mb-3
                         img.ms-3.w-75(src="@/assets/curso/tema2/img27.png")
                       .h4.text-center.text-white.mb-0 <a href="https://ethereum.org/" target="_blank">Ethereum</a>
-                    .col-lg.col-4
+                    .col-xl.col-lg-3.col-4
                       figure.mb-3
                         img.ms-3.w-75(src="@/assets/curso/tema2/img28.png")
                       .h4.text-center.text-white.mb-0 <a href="https://solana.com/" target="_blank">Solana</a>
-                    .col-lg.col-4
+                    .col-xl.col-lg-3.col-4
                       figure.mb-3
                         img.ms-3.w-75(src="@/assets/curso/tema2/img29.png")
                       .h4.text-center.text-white.mb-0 <a href="https://cardano.org/" target="_blank">Cardano</a>
-                    .col-lg.col-4
+                    .col-xl.col-lg-3.col-4
                       figure.mb-3
                         img.ms-3.w-75(src="@/assets/curso/tema2/img30.png")
                       .h4.text-center.text-white.mb-0 <a href="https://polkadot.network/" target="_blank">Polkadot </a>
