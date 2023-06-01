@@ -296,11 +296,6 @@ export default {
             'Regional Norte de Santander. Centro de la Industria, la Empresa y los Servicios',
         },
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora metodológica',
-          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
-        },
-        {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Correctora de estilo',
           centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
