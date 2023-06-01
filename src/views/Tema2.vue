@@ -237,7 +237,7 @@
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Interacción con otras aplicaciones
-    
+    p.mb-5 El #[em blockchain] cuenta con un gran número de proyectos que permiten interactuar con sus redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios DApps, wallet, infraestructura, finanzas descentralizadas, gaming, NFT entre otras soluciones, a continuación va a conocer las propuestas de algunos proyectos.
     .BG05.p-4.mb-5(data-aos="zoom-in")
       SlyderB(:datos="datosSlyder")
     

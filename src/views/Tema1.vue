@@ -16,7 +16,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Conceptos relacionados con la criptografía
+      h2 1.1 Definición
 
     .row.justify-content-center.mb-4
       .col-lg-10
