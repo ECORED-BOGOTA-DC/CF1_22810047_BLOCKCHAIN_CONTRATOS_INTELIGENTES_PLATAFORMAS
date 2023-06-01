@@ -312,7 +312,7 @@ export default {
       autores: [
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Virtual',
+          cargo: 'Metodóloga para la formación virtual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
