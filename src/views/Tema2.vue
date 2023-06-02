@@ -149,18 +149,58 @@
                         span(style="color: #000; font-weight: 400") Ir a sitio web
                         i.fas.fa-link(style="color: #000")           
           
-    p.mb-5 También existen alternativas para usuarios no técnicos o aquellos que no manejan lenguajes de programación, que les ayudan a construir una lógica del contrato inteligente apoyado en una interfaz de bloques, lo que permite comprender lo que se está programando, y que posteriormente se puede exportar para complementar y publicar, una de estas plataformas es <a style="color: #8628A5" href="https://etherscripter.com" target="_blank">https://etherscripter.com</a>, como se puede apreciar en la siguiente figura.
-
+    p.mb-5 Existen algunas alternativas como por ejemplo Alchemy, el cual combina los productos y las herramientas para desarrolladores web3 más potentes con recursos, comunidad y soporte legendario, pero a su vez, existen otras que no requieren lenguajes de programación, es decir ayudan a construir una lógica del contrato inteligente apoyado en una interfaz de bloques, lo que permite comprender lo que se está programando, y que posteriormente se puede exportar para complementar y publicar, como se puede observar en los siguientes enlaces:
+             
     .row.justify-content-center.mb-5
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 7
-          span Editor visual de contratos inteligentes EtherScripter
-        figure(data-aos="zoom-in")
-          img(src="@/assets/curso/tema2/img18.png")
-          figcaption Nota. <a style="font-weight: 400">Tomado de EtherScripter - #[em Visual smart-contract builder for Ethereum]</a>
-
-    p Esta plataforma basada en bloques permite arrastrar bloques con enganches similares a un rompecabezas y a medida que los enganchamos cada parte sirve como condicional lógico, repeticiones, y todo lo necesario para poder generar un contrato inteligente básico.
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-right")
+        .tarjeta-numerada.color-primario.hg-01.px-xl-5.py-xl-4.p-4
+          .tarjeta-numerada__numero
+            .h2 1
+          p.text-center 
+            b Alchemy 
+          p.text-center.mb-0 #[em Smart contract tools]
+        .row.justify-content-center
+          .col-sm-auto
+            a.boton.color-acento-botones.ms-4(href="https://www.alchemy.com/best/smart-contract-tools" target="_blank")
+              span(style="color: #000; font-weight: 400") Ir a sitio web
+              i.fas.fa-link(style="color: #000")
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="flip-up")
+        .tarjeta-numerada.color-secundario.hg-01.px-xl-5.py-xl-4.p-4
+          .tarjeta-numerada__numero
+            .h2 2
+          p.text-center 
+            b Analytics Insight
+          p.text-center.mb-0 #[em Artificial intelligence, big data analytics and insight]
+        .row.justify-content-center
+          .col-sm-auto
+            a.boton.color-acento-botones.ms-4(href="https://www.analyticsinsight.net/" target="_blank")
+              span(style="color: #000; font-weight: 400") Ir a sitio web
+              i.fas.fa-link(style="color: #000")
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="flip-up")
+        .tarjeta-numerada.color-acento-contenido.hg-01.px-xl-5.py-xl-4.p-4
+          .tarjeta-numerada__numero
+            .h2 3
+          p.text-center 
+            b Smart Contract
+          p.text-center.mb-0 #[em Deploy your first smart contract]
+        .row.justify-content-center
+          .col-sm-auto
+            a.boton.color-acento-botones.ms-4(href="https://www.web3.university/tracks/create-a-smart-contract/deploy-your-first-smart-contract" target="_blank")
+              span(style="color: #000; font-weight: 400") Ir a sitio web
+              i.fas.fa-link(style="color: #000")
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-left")
+        .tarjeta-numerada.color-acento-botones.hg-01.px-xl-5.py-xl-4.p-4
+          .tarjeta-numerada__numero
+            .h2 4
+          p.text-center 
+            b Ethereum
+          p.text-center.mb-0 Introducción a los contratos inteligentes
+        .row.justify-content-center
+          .col-sm-auto
+            a.boton.color-acento-botones.ms-4(href="https://ethereum.org/es/developers/docs/smart-contracts/" target="_blank")
+              span(style="color: #000; font-weight: 400") Ir a sitio web
+              i.fas.fa-link(style="color: #000")
+    
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
