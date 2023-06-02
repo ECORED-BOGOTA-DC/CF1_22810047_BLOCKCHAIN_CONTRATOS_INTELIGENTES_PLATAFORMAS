@@ -171,11 +171,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/CFA_1_ 22810047_1.pdf',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar HTML',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
