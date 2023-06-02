@@ -1,0 +1,380 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="935" height="288" viewBox="0 0 935 288">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_313260" data-name="Rectángulo 313260" width="781.398" height="247.542" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_313258" data-name="Rectángulo 313258" width="87.288" height="19.3" transform="translate(149.132 85.396)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_313259" data-name="Rectángulo 313259" width="75.277" height="19.3" transform="translate(156.904 106.365)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_313275" data-name="Rectángulo 313275" width="28.904" height="19.841" transform="translate(44.232 95.23)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectángulo_313291" data-name="Rectángulo 313291" width="74.361" height="19.3" transform="translate(155.733 228.242)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectángulo_313294" data-name="Rectángulo 313294" width="171.542" height="19.841" transform="translate(107.212)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectángulo_313297" data-name="Rectángulo 313297" width="87.288" height="19.3" transform="translate(407.947 85.396)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect id="Rectángulo_313298" data-name="Rectángulo 313298" width="75.278" height="19.3" transform="translate(415.718 106.365)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectángulo_313300" data-name="Rectángulo 313300" width="28.904" height="19.841" transform="translate(301.436 95.23)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <rect id="Rectángulo_313315" data-name="Rectángulo 313315" width="74.361" height="19.3" transform="translate(414.372 228.242)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <rect id="Rectángulo_313318" data-name="Rectángulo 313318" width="87.289" height="19.3" transform="translate(663.541 85.396)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <rect id="Rectángulo_313319" data-name="Rectángulo 313319" width="75.277" height="19.3" transform="translate(671.312 106.365)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <rect id="Rectángulo_313321" data-name="Rectángulo 313321" width="28.904" height="19.841" transform="translate(558.641 95.23)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <rect id="Rectángulo_313336" data-name="Rectángulo 313336" width="74.361" height="19.3" transform="translate(669.576 228.242)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <rect id="Rectángulo_313351" data-name="Rectángulo 313351" width="64.337" height="19.841" transform="translate(293.23 142.231)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <rect id="Rectángulo_313366" data-name="Rectángulo 313366" width="64.337" height="19.841" transform="translate(36.026 142.231)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <rect id="Rectángulo_313381" data-name="Rectángulo 313381" width="64.337" height="19.841" transform="translate(550.434 142.231)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_238133" data-name="Grupo 238133" transform="translate(10779 4078)">
+    <g id="Trazado_232810" data-name="Trazado 232810" transform="translate(-10779 -4078)" fill="#fff">
+      <path d="M 934.5 287.5 L 0.5 287.5 L 0.5 0.5 L 934.5 0.5 L 934.5 287.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 287 L 934 287 L 934 1 L 1 1 M 0 0 L 935 0 L 935 288 L 0 288 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <path id="Trazado_232811" data-name="Trazado 232811" d="M0,0H136.989V50.323H0Z" transform="translate(-10576.892 -3977.906)" fill="#59e5f5"/>
+    <path id="Trazado_232812" data-name="Trazado 232812" d="M0,0H136.989V50.323H0Z" transform="translate(-10576.892 -3977.906)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
+    <g id="Grupo_237431" data-name="Grupo 237431" transform="translate(-10702 -4058)" clip-path="url(#clip-path)">
+      <g id="Grupo_237427" data-name="Grupo 237427" style="isolation: isolate">
+        <g id="Grupo_237426" data-name="Grupo 237426">
+          <g id="Grupo_237425" data-name="Grupo 237425" clip-path="url(#clip-path-2)">
+            <text id="block_cipher" data-name="block cipher" transform="translate(149.132 99.398)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">block cipher</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_237430" data-name="Grupo 237430" style="isolation: isolate">
+        <g id="Grupo_237429" data-name="Grupo 237429">
+          <g id="Grupo_237428" data-name="Grupo 237428" clip-path="url(#clip-path-3)">
+            <text id="encryption" transform="translate(156.903 120.367)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">encryption</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_232813" data-name="Trazado 232813" d="M0,0H11.183V13.978H0Z" transform="translate(-10581.086 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232814" data-name="Trazado 232814" d="M0,0H11.183V13.978H0Z" transform="translate(-10569.903 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232815" data-name="Trazado 232815" d="M0,0H11.183V13.978H0Z" transform="translate(-10558.72 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232816" data-name="Trazado 232816" d="M0,0H11.183V13.978H0Z" transform="translate(-10547.538 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232817" data-name="Trazado 232817" d="M0,0H11.183V13.978H0Z" transform="translate(-10536.355 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232818" data-name="Trazado 232818" d="M0,0H11.183V13.978H0Z" transform="translate(-10525.172 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232819" data-name="Trazado 232819" d="M0,0H11.183V13.978H0Z" transform="translate(-10513.989 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232820" data-name="Trazado 232820" d="M0,0H11.183V13.978H0Z" transform="translate(-10502.806 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232821" data-name="Trazado 232821" d="M0,0H11.183V13.978H0Z" transform="translate(-10491.624 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232822" data-name="Trazado 232822" d="M0,0H11.183V13.978H0Z" transform="translate(-10480.441 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232823" data-name="Trazado 232823" d="M0,0H11.183V13.978H0Z" transform="translate(-10469.258 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232824" data-name="Trazado 232824" d="M0,0H11.183V13.978H0Z" transform="translate(-10458.075 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232825" data-name="Trazado 232825" d="M0,0H11.183V13.978H0Z" transform="translate(-10446.892 -4031.024)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <g id="Grupo_237439" data-name="Grupo 237439" transform="translate(-10702 -4058)" clip-path="url(#clip-path)">
+      <g id="Grupo_237438" data-name="Grupo 237438" style="isolation: isolate">
+        <g id="Grupo_237437" data-name="Grupo 237437">
+          <g id="Grupo_237436" data-name="Grupo 237436" clip-path="url(#clip-path-5)">
+            <g id="Grupo_237435" data-name="Grupo 237435" style="isolation: isolate">
+              <g id="Grupo_237434" data-name="Grupo 237434">
+                <g id="Grupo_237433" data-name="Grupo 237433" clip-path="url(#clip-path-5)">
+                  <text id="Key" transform="translate(44.231 109.625)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Key</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_232826" data-name="Trazado 232826" d="M0,0H11.183V13.979H0Z" transform="translate(-10581.086 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232827" data-name="Trazado 232827" d="M0,0H11.183V13.979H0Z" transform="translate(-10569.903 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232828" data-name="Trazado 232828" d="M0,0H11.183V13.979H0Z" transform="translate(-10558.72 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232829" data-name="Trazado 232829" d="M0,0H11.183V13.979H0Z" transform="translate(-10547.538 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232830" data-name="Trazado 232830" d="M0,0H11.183V13.979H0Z" transform="translate(-10536.355 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232831" data-name="Trazado 232831" d="M0,0H11.183V13.979H0Z" transform="translate(-10525.172 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232832" data-name="Trazado 232832" d="M0,0H11.183V13.979H0Z" transform="translate(-10513.989 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232833" data-name="Trazado 232833" d="M0,0H11.183V13.979H0Z" transform="translate(-10502.806 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232834" data-name="Trazado 232834" d="M0,0H11.183V13.979H0Z" transform="translate(-10491.624 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232835" data-name="Trazado 232835" d="M0,0H11.183V13.979H0Z" transform="translate(-10480.441 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232836" data-name="Trazado 232836" d="M0,0H11.183V13.979H0Z" transform="translate(-10469.258 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232837" data-name="Trazado 232837" d="M0,0H11.183V13.979H0Z" transform="translate(-10458.075 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <path id="Trazado_232838" data-name="Trazado 232838" d="M0,0H11.183V13.979H0Z" transform="translate(-10446.892 -3850.702)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+    <g id="Grupo_237447" data-name="Grupo 237447" transform="translate(-10702 -4058)" clip-path="url(#clip-path)">
+      <g id="Grupo_237446" data-name="Grupo 237446" style="isolation: isolate">
+        <g id="Grupo_237445" data-name="Grupo 237445">
+          <g id="Grupo_237444" data-name="Grupo 237444" clip-path="url(#clip-path-8)">
+            <g id="Grupo_237443" data-name="Grupo 237443" style="isolation: isolate">
+              <g id="Grupo_237442" data-name="Grupo 237442">
+                <g id="Grupo_237441" data-name="Grupo 237441" clip-path="url(#clip-path-8)">
+                  <text id="Ciphertext" transform="translate(155.732 242.244)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">Ciphertext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_232021" data-name="Trazado 232021" d="M193.6,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" transform="translate(-10702 -4058)" fill-rule="evenodd"/>
+    <path id="Trazado_232022" data-name="Trazado 232022" d="M193.6,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" transform="translate(-10702 -4058)" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+    <path id="Trazado_232023" data-name="Trazado 232023" d="M112.527,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" transform="translate(-10702 -4058)" fill-rule="evenodd"/>
+    <path id="Trazado_232024" data-name="Trazado 232024" d="M112.527,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" transform="translate(-10702 -4058)" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+    <path id="Trazado_232025" data-name="Trazado 232025" d="M193.6,68.911l-2.8-2.8,2.8,9.785,2.8-9.785Z" transform="translate(-10702 -4058)" fill-rule="evenodd"/>
+    <path id="Trazado_232026" data-name="Trazado 232026" d="M193.6,68.911l-2.8-2.8,2.8,9.785,2.8-9.785Z" transform="translate(-10702 -4058)" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+    <g id="Grupo_237509" data-name="Grupo 237509" transform="translate(-10702 -4058)" clip-path="url(#clip-path)">
+      <g id="Grupo_237454" data-name="Grupo 237454" style="isolation: isolate">
+        <g id="Grupo_237453" data-name="Grupo 237453">
+          <g id="Grupo_237452" data-name="Grupo 237452" clip-path="url(#clip-path-11)">
+            <g id="Grupo_237451" data-name="Grupo 237451" style="isolation: isolate">
+              <g id="Grupo_237450" data-name="Grupo 237450">
+                <g id="Grupo_237449" data-name="Grupo 237449" clip-path="url(#clip-path-11)">
+                  <text id="Initialization_Vector_IV_" data-name="Initialization Vector (IV)" transform="translate(107.212 14.395)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Initialization </tspan><tspan y="0" letter-spacing="-0.055em">V</tspan><tspan y="0">ector (IV)</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <circle id="Elipse_5047" data-name="Elipse 5047" cx="8.387" cy="8.387" r="8.387" transform="translate(185.215 162.567)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <line id="Línea_173" data-name="Línea 173" x2="16.774" transform="translate(185.215 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <path id="Trazado_232027" data-name="Trazado 232027" d="M450.806,67.513l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill-rule="evenodd"/>
+      <path id="Trazado_232028" data-name="Trazado 232028" d="M450.806,67.513l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <rect id="Rectángulo_313295" data-name="Rectángulo 313295" width="136.989" height="50.323" transform="translate(382.312 80.094)" fill="#59e5f5"/>
+      <rect id="Rectángulo_313296" data-name="Rectángulo 313296" width="136.989" height="50.323" transform="translate(382.312 80.094)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
+      <g id="Grupo_237457" data-name="Grupo 237457" style="isolation: isolate">
+        <g id="Grupo_237456" data-name="Grupo 237456">
+          <g id="Grupo_237455" data-name="Grupo 237455" clip-path="url(#clip-path-13)">
+            <text id="block_cipher-2" data-name="block cipher" transform="translate(407.946 99.398)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">block cipher</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_237460" data-name="Grupo 237460" style="isolation: isolate">
+        <g id="Grupo_237459" data-name="Grupo 237459">
+          <g id="Grupo_237458" data-name="Grupo 237458" clip-path="url(#clip-path-14)">
+            <text id="encryption-2" data-name="encryption" transform="translate(415.718 120.367)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">encryption</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_237466" data-name="Grupo 237466" style="isolation: isolate">
+        <g id="Grupo_237465" data-name="Grupo 237465">
+          <g id="Grupo_237464" data-name="Grupo 237464" clip-path="url(#clip-path-15)">
+            <g id="Grupo_237463" data-name="Grupo 237463" style="isolation: isolate">
+              <g id="Grupo_237462" data-name="Grupo 237462">
+                <g id="Grupo_237461" data-name="Grupo 237461" clip-path="url(#clip-path-15)">
+                  <text id="Key-2" data-name="Key" transform="translate(301.436 109.625)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Key</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectángulo_313301" data-name="Rectángulo 313301" width="11.183" height="13.979" transform="translate(378.118 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313302" data-name="Rectángulo 313302" width="11.183" height="13.979" transform="translate(389.301 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313303" data-name="Rectángulo 313303" width="11.183" height="13.979" transform="translate(400.484 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313304" data-name="Rectángulo 313304" width="11.183" height="13.979" transform="translate(411.667 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313305" data-name="Rectángulo 313305" width="11.183" height="13.979" transform="translate(422.849 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313306" data-name="Rectángulo 313306" width="11.183" height="13.979" transform="translate(434.032 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313307" data-name="Rectángulo 313307" width="11.183" height="13.979" transform="translate(445.215 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313308" data-name="Rectángulo 313308" width="11.183" height="13.979" transform="translate(456.398 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313309" data-name="Rectángulo 313309" width="11.183" height="13.979" transform="translate(467.581 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313310" data-name="Rectángulo 313310" width="11.183" height="13.979" transform="translate(478.763 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313311" data-name="Rectángulo 313311" width="11.183" height="13.979" transform="translate(489.946 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313312" data-name="Rectángulo 313312" width="11.183" height="13.979" transform="translate(501.129 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313313" data-name="Rectángulo 313313" width="11.183" height="13.979" transform="translate(512.312 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <g id="Grupo_237472" data-name="Grupo 237472" style="isolation: isolate">
+        <g id="Grupo_237471" data-name="Grupo 237471">
+          <g id="Grupo_237470" data-name="Grupo 237470" clip-path="url(#clip-path-17)">
+            <g id="Grupo_237469" data-name="Grupo 237469" style="isolation: isolate">
+              <g id="Grupo_237468" data-name="Grupo 237468">
+                <g id="Grupo_237467" data-name="Grupo 237467" clip-path="url(#clip-path-17)">
+                  <text id="Ciphertext-2" data-name="Ciphertext" transform="translate(414.371 242.244)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">Ciphertext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_232029" data-name="Trazado 232029" d="M450.806,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill-rule="evenodd"/>
+      <path id="Trazado_232030" data-name="Trazado 232030" d="M450.806,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <path id="Trazado_232031" data-name="Trazado 232031" d="M369.731,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill-rule="evenodd"/>
+      <path id="Trazado_232032" data-name="Trazado 232032" d="M369.731,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <rect id="Rectángulo_313316" data-name="Rectángulo 313316" width="136.989" height="50.323" transform="translate(639.516 80.094)" fill="#59e5f5"/>
+      <rect id="Rectángulo_313317" data-name="Rectángulo 313317" width="136.989" height="50.323" transform="translate(639.516 80.094)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.36"/>
+      <g id="Grupo_237475" data-name="Grupo 237475" style="isolation: isolate">
+        <g id="Grupo_237474" data-name="Grupo 237474">
+          <g id="Grupo_237473" data-name="Grupo 237473" clip-path="url(#clip-path-19)">
+            <text id="block_cipher-3" data-name="block cipher" transform="translate(663.541 99.398)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">block cipher</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_237478" data-name="Grupo 237478" style="isolation: isolate">
+        <g id="Grupo_237477" data-name="Grupo 237477">
+          <g id="Grupo_237476" data-name="Grupo 237476" clip-path="url(#clip-path-20)">
+            <text id="encryption-3" data-name="encryption" transform="translate(671.312 120.367)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">encryption</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_237484" data-name="Grupo 237484" style="isolation: isolate">
+        <g id="Grupo_237483" data-name="Grupo 237483">
+          <g id="Grupo_237482" data-name="Grupo 237482" clip-path="url(#clip-path-21)">
+            <g id="Grupo_237481" data-name="Grupo 237481" style="isolation: isolate">
+              <g id="Grupo_237480" data-name="Grupo 237480">
+                <g id="Grupo_237479" data-name="Grupo 237479" clip-path="url(#clip-path-21)">
+                  <text id="Key-3" data-name="Key" transform="translate(558.641 109.625)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Key</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectángulo_313322" data-name="Rectángulo 313322" width="11.183" height="13.979" transform="translate(635.323 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313323" data-name="Rectángulo 313323" width="11.183" height="13.979" transform="translate(646.505 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313324" data-name="Rectángulo 313324" width="11.183" height="13.979" transform="translate(657.688 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313325" data-name="Rectángulo 313325" width="11.183" height="13.979" transform="translate(668.871 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313326" data-name="Rectángulo 313326" width="11.183" height="13.979" transform="translate(680.054 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313327" data-name="Rectángulo 313327" width="11.183" height="13.979" transform="translate(691.237 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313328" data-name="Rectángulo 313328" width="11.183" height="13.979" transform="translate(702.419 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313329" data-name="Rectángulo 313329" width="11.183" height="13.979" transform="translate(713.602 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313330" data-name="Rectángulo 313330" width="11.183" height="13.979" transform="translate(724.785 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313331" data-name="Rectángulo 313331" width="11.183" height="13.979" transform="translate(735.968 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313332" data-name="Rectángulo 313332" width="11.183" height="13.979" transform="translate(747.151 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313333" data-name="Rectángulo 313333" width="11.183" height="13.979" transform="translate(758.333 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313334" data-name="Rectángulo 313334" width="11.183" height="13.979" transform="translate(769.516 207.298)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <g id="Grupo_237490" data-name="Grupo 237490" style="isolation: isolate">
+        <g id="Grupo_237489" data-name="Grupo 237489">
+          <g id="Grupo_237488" data-name="Grupo 237488" clip-path="url(#clip-path-23)">
+            <g id="Grupo_237487" data-name="Grupo 237487" style="isolation: isolate">
+              <g id="Grupo_237486" data-name="Grupo 237486">
+                <g id="Grupo_237485" data-name="Grupo 237485" clip-path="url(#clip-path-23)">
+                  <text id="Ciphertext-3" data-name="Ciphertext" transform="translate(669.575 242.244)" font-size="16.316" font-family="ArialMT, Arial"><tspan x="0" y="0">Ciphertext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_232033" data-name="Trazado 232033" d="M708.011,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill-rule="evenodd"/>
+      <path id="Trazado_232034" data-name="Trazado 232034" d="M708.011,194.718l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <path id="Trazado_232035" data-name="Trazado 232035" d="M626.935,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill-rule="evenodd"/>
+      <path id="Trazado_232036" data-name="Trazado 232036" d="M626.935,105.255l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <rect id="Rectángulo_313337" data-name="Rectángulo 313337" width="11.183" height="13.978" transform="translate(257.903 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313338" data-name="Rectángulo 313338" width="11.183" height="13.978" transform="translate(269.086 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313339" data-name="Rectángulo 313339" width="11.183" height="13.978" transform="translate(280.269 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313340" data-name="Rectángulo 313340" width="11.183" height="13.978" transform="translate(291.452 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313341" data-name="Rectángulo 313341" width="11.183" height="13.978" transform="translate(302.634 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313342" data-name="Rectángulo 313342" width="11.183" height="13.978" transform="translate(313.817 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313343" data-name="Rectángulo 313343" width="11.183" height="13.978" transform="translate(325 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313344" data-name="Rectángulo 313344" width="11.183" height="13.978" transform="translate(336.183 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313345" data-name="Rectángulo 313345" width="11.183" height="13.978" transform="translate(347.366 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313346" data-name="Rectángulo 313346" width="11.183" height="13.978" transform="translate(358.548 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313347" data-name="Rectángulo 313347" width="11.183" height="13.978" transform="translate(369.731 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313348" data-name="Rectángulo 313348" width="11.183" height="13.978" transform="translate(380.914 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313349" data-name="Rectángulo 313349" width="11.183" height="13.978" transform="translate(392.097 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <g id="Grupo_237496" data-name="Grupo 237496" style="isolation: isolate">
+        <g id="Grupo_237495" data-name="Grupo 237495">
+          <g id="Grupo_237494" data-name="Grupo 237494" clip-path="url(#clip-path-25)">
+            <g id="Grupo_237493" data-name="Grupo 237493" style="isolation: isolate">
+              <g id="Grupo_237492" data-name="Grupo 237492">
+                <g id="Grupo_237491" data-name="Grupo 237491" clip-path="url(#clip-path-25)">
+                  <text id="Plaintext" transform="translate(293.229 156.626)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Plaintext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectángulo_313352" data-name="Rectángulo 313352" width="11.183" height="13.978" transform="translate(0.699 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313353" data-name="Rectángulo 313353" width="11.183" height="13.978" transform="translate(11.882 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313354" data-name="Rectángulo 313354" width="11.183" height="13.978" transform="translate(23.065 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313355" data-name="Rectángulo 313355" width="11.183" height="13.978" transform="translate(34.247 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313356" data-name="Rectángulo 313356" width="11.183" height="13.978" transform="translate(45.43 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313357" data-name="Rectángulo 313357" width="11.183" height="13.978" transform="translate(56.613 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313358" data-name="Rectángulo 313358" width="11.183" height="13.978" transform="translate(67.796 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313359" data-name="Rectángulo 313359" width="11.183" height="13.978" transform="translate(78.979 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313360" data-name="Rectángulo 313360" width="11.183" height="13.978" transform="translate(90.161 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313361" data-name="Rectángulo 313361" width="11.183" height="13.978" transform="translate(101.344 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313362" data-name="Rectángulo 313362" width="11.183" height="13.978" transform="translate(112.527 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313363" data-name="Rectángulo 313363" width="11.183" height="13.978" transform="translate(123.71 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313364" data-name="Rectángulo 313364" width="11.183" height="13.978" transform="translate(134.892 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <g id="Grupo_237502" data-name="Grupo 237502" style="isolation: isolate">
+        <g id="Grupo_237501" data-name="Grupo 237501">
+          <g id="Grupo_237500" data-name="Grupo 237500" clip-path="url(#clip-path-27)">
+            <g id="Grupo_237499" data-name="Grupo 237499" style="isolation: isolate">
+              <g id="Grupo_237498" data-name="Grupo 237498">
+                <g id="Grupo_237497" data-name="Grupo 237497" clip-path="url(#clip-path-27)">
+                  <text id="Plaintext-2" data-name="Plaintext" transform="translate(36.025 156.626)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Plaintext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_232037" data-name="Trazado 232037" d="M174.032,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill-rule="evenodd"/>
+      <path id="Trazado_232038" data-name="Trazado 232038" d="M174.032,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <rect id="Rectángulo_313367" data-name="Rectángulo 313367" width="11.183" height="13.978" transform="translate(515.108 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313368" data-name="Rectángulo 313368" width="11.183" height="13.978" transform="translate(526.29 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313369" data-name="Rectángulo 313369" width="11.183" height="13.978" transform="translate(537.473 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313370" data-name="Rectángulo 313370" width="11.183" height="13.978" transform="translate(548.656 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313371" data-name="Rectángulo 313371" width="11.183" height="13.978" transform="translate(559.839 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313372" data-name="Rectángulo 313372" width="11.183" height="13.978" transform="translate(571.021 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313373" data-name="Rectángulo 313373" width="11.183" height="13.978" transform="translate(582.204 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313374" data-name="Rectángulo 313374" width="11.183" height="13.978" transform="translate(593.387 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313375" data-name="Rectángulo 313375" width="11.183" height="13.978" transform="translate(604.57 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313376" data-name="Rectángulo 313376" width="11.183" height="13.978" transform="translate(615.753 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313377" data-name="Rectángulo 313377" width="11.183" height="13.978" transform="translate(626.935 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313378" data-name="Rectángulo 313378" width="11.183" height="13.978" transform="translate(638.118 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <rect id="Rectángulo_313379" data-name="Rectángulo 313379" width="11.183" height="13.978" transform="translate(649.301 163.965)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <g id="Grupo_237508" data-name="Grupo 237508" style="isolation: isolate">
+        <g id="Grupo_237507" data-name="Grupo 237507">
+          <g id="Grupo_237506" data-name="Grupo 237506" clip-path="url(#clip-path-29)">
+            <g id="Grupo_237505" data-name="Grupo 237505" style="isolation: isolate">
+              <g id="Grupo_237504" data-name="Grupo 237504">
+                <g id="Grupo_237503" data-name="Grupo 237503" clip-path="url(#clip-path-29)">
+                  <text id="Plaintext-3" data-name="Plaintext" transform="translate(550.434 156.626)" font-size="16.774" font-family="ArialMT, Arial"><tspan x="0" y="0">Plaintext</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <circle id="Elipse_5048" data-name="Elipse 5048" cx="8.387" cy="8.387" r="8.387" transform="translate(442.419 162.567)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <line id="Línea_174" data-name="Línea 174" x2="16.774" transform="translate(442.419 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <path id="Trazado_232039" data-name="Trazado 232039" d="M708.011,67.513l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill-rule="evenodd"/>
+      <path id="Trazado_232040" data-name="Trazado 232040" d="M708.011,67.513l-2.8-2.8,2.8,9.785,2.8-9.785Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <path id="Trazado_232041" data-name="Trazado 232041" d="M431.237,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill-rule="evenodd"/>
+      <path id="Trazado_232042" data-name="Trazado 232042" d="M431.237,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <circle id="Elipse_5049" data-name="Elipse 5049" cx="8.387" cy="8.387" r="8.387" transform="translate(699.308 162.895) rotate(-2.199)" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.398"/>
+      <line id="Línea_175" data-name="Línea 175" x2="16.774" transform="translate(699.624 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <path id="Trazado_232043" data-name="Trazado 232043" d="M688.441,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill-rule="evenodd"/>
+      <path id="Trazado_232044" data-name="Trazado 232044" d="M688.441,170.954l-2.8,2.8,9.785-2.8-9.785-2.8Z" fill="none" stroke="#000" stroke-miterlimit="1.6" stroke-width="0.559"/>
+      <line id="Línea_176" data-name="Línea 176" y1="26.574" transform="translate(193.602 42.337)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_177" data-name="Línea 177" y1="61.914" transform="translate(193.602 132.804)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_178" data-name="Línea 178" x1="37.561" transform="translate(74.966 105.255)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_179" data-name="Línea 179" x1="25.937" transform="translate(148.095 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <path id="Trazado_232045" data-name="Trazado 232045" d="M193.6,149.219h88.2V42.337H450.806V67.513" fill="none" stroke="#000" stroke-width="1.398"/>
+      <path id="Trazado_232046" data-name="Trazado 232046" d="M450.806,149.219H539V42.337H708.01V67.513" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_180" data-name="Línea 180" x1="35.409" transform="translate(334.322 105.255)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_181" data-name="Línea 181" x1="25.161" transform="translate(406.076 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_182" data-name="Línea 182" y1="61.914" transform="translate(450.806 132.804)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_183" data-name="Línea 183" x1="25.937" transform="translate(662.504 170.954)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_184" data-name="Línea 184" y1="61.914" transform="translate(708.011 132.804)" fill="none" stroke="#000" stroke-width="1.398"/>
+      <line id="Línea_185" data-name="Línea 185" x1="36.342" transform="translate(590.593 105.255)" fill="none" stroke="#000" stroke-width="1.398"/>
+    </g>
+  </g>
+</svg>

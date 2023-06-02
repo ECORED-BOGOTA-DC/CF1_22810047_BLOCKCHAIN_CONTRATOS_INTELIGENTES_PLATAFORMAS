@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.932" height="44.861" viewBox="0 0 68.932 44.861">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.2"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Objects" transform="translate(-11.413 -28.076)">
+    <g id="Middle-size_blocks" data-name="Middle-size blocks">
+      <g id="Grupo_80386" data-name="Grupo 80386">
+        <g id="Grupo_80385" data-name="Grupo 80385" transform="translate(11.413 28.076)">
+          <path id="Trazado_113729" data-name="Trazado 113729" d="M68.081,62.25H37.71L56.986,73.386,37.71,84.514H68.081L87.357,73.386Z" transform="translate(-18.426 -39.653)" fill="url(#linear-gradient)"/>
+          <path id="Trazado_113730" data-name="Trazado 113730" d="M37.71,81.895,56.986,70.767V48.17L37.71,59.29Z" transform="translate(-18.426 -37.034)" fill="#b9bee4"/>
+          <path id="Trazado_113731" data-name="Trazado 113731" d="M33.3,81.895,14.02,70.767V48.17L33.3,59.29Z" transform="translate(-14.02 -37.034)" fill="#ccd1f6"/>
+          <path id="Trazado_113732" data-name="Trazado 113732" d="M33.3,56.745,14.02,45.626,33.3,34.49,52.58,45.626Z" transform="translate(-14.02 -34.49)" fill="#f4f4f9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
